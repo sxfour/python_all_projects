@@ -212,7 +212,7 @@ async def start_over(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
 
 
 def main() -> None:
-    application = Application.builder().token("5482916330:AAHJLZFIsRj18gkk7ZL0tlGOFeIlyaDgUJo").build()
+    application = Application.builder().token("You token").build()
     conv_handler = ConversationHandler(
         entry_points=[CommandHandler("start", start)],
         states={
