@@ -3,8 +3,7 @@
 Поиск  длинны пароля, а так же сам пароль от admin account.
 И так, что мы имеем...
 - Открытую уязвимость blind sql, проверка через подмену запроса (с содержанием печенек в нашем случае на лабе, TrackingId=)
-
-![изображение](https://user-images.githubusercontent.com/112577182/205280024-fd59c249-ed4e-4d84-b79c-851da865f73c.png)
+![1](https://github.com/sxfour/python_all_projects/assets/112577182/78218536-adeb-4f44-b295-61091bb1af16)
 
 - Все действия можно проводить в BurpSuite, но так как I dont have enough money for Burp Suite Edition
 решено написать скрипт.
@@ -23,24 +22,21 @@ Injection:
 Первый этап:
 
 Перебераем весь созданный массив от 0 до 30
-![изображение](https://user-images.githubusercontent.com/112577182/205287460-ffe03813-4c32-49c3-a3a8-1a9ddc7ed2a5.png)
-![изображение](https://user-images.githubusercontent.com/112577182/205287593-ecdd2e80-abdb-4272-8ca8-214ac2dfd0b3.png)
+![2](https://github.com/sxfour/python_all_projects/assets/112577182/461336f9-6b0e-44cb-91ef-0f29aa148e25)
+![3](https://github.com/sxfour/python_all_projects/assets/112577182/e80d8519-f5c9-4f85-b654-e76efe004a66)
 
 Добавляем +1 из-за разницы счёта с 0, дальше он начнется с 1.
 
 
 Второй этап:
 - Формируем get запрос, два цикла, в обоих массивы, с нужными strings? numbers? всё нижний ряд. 
-- ![изображение](https://user-images.githubusercontent.com/112577182/205287839-4b47268e-1a32-4017-9f73-f11c650237f1.png)
+- ![4](https://github.com/sxfour/python_all_projects/assets/112577182/6d69acca-357d-4f44-90c1-1cdc9d3b98d1)
 
 Начинаем перебирать все возможные вариации abcd... 0-9, if pg_sleep дольше 8 секунд, записываем как True value :)
-
-![изображение](https://user-images.githubusercontent.com/112577182/205288809-b1f8c17c-9e53-47c5-8327-39f599592719.png)
+![5](https://github.com/sxfour/python_all_projects/assets/112577182/d32fe1c9-d2f9-4257-adcb-5bee4a3c9707)
 
 На этом всё, для запуска вставьте адрес лабы в url_lab.
-
-![изображение](https://user-images.githubusercontent.com/112577182/205289256-71081848-c121-4a1c-8d48-63af01244c9b.png)
-
-![изображение](https://user-images.githubusercontent.com/112577182/205290108-6228537d-e949-4e12-ad9e-b238bb94dcad.png)
+![6](https://github.com/sxfour/python_all_projects/assets/112577182/72ef5589-c12b-459b-adf4-17f12b24ef6c)
+![7](https://github.com/sxfour/python_all_projects/assets/112577182/f077aa27-ddb2-47bc-a8ea-413643146122)
 
 Работает на одном потоке!!!
