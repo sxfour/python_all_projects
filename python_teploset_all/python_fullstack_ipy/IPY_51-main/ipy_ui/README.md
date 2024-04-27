@@ -90,6 +90,11 @@ c помощью команды \COPY tickets FROM ‘Локальный csv’ 
 
 ![изображение](https://user-images.githubusercontent.com/112577182/233073098-e551148a-c2d1-4b0d-afdd-d67d028ff411.png)
 
+# Сканнер портов в локальной сети для поиска базы данных
+
+https://github.com/sxfour/python_all_projects/assets/112577182/77e80e23-e1de-4ef1-a4a1-3dd043dce601
+
+
 # Все изменения
  [26.03.2024] Изменения:
  - Обновлённая версия сканера портов с gui интерфейсом
