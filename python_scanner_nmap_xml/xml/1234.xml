@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nmaprun>
+<?xml-stylesheet href="file:///D:/Nmap/nmap.xsl" type="text/xsl"?>
+<!-- Nmap 7.93 scan initiated Wed Dec 14 08:55:42 2022 as: port_scan -v -n -p- -sV -O -&#45;osscan-limit -&#45;max-os-tries 1 -oX 1234.xml 192.168.0.155 -->
+<nmaprun scanner="nmap" args="nmap -v -n -p- -sV -O -&#45;osscan-limit -&#45;max-os-tries 1 -oX 1234.xml 192.168.0.155" start="1670997342" startstr="Wed Dec 14 08:55:42 2022" version="7.93" xmloutputversion="1.05">
+<scaninfo type="syn" protocol="tcp" numservices="65535" services="1-65535"/>
+<verbose level="1"/>
+<debugging level="0"/>
+<taskbegin task="ARP Ping Scan" time="1670997343"/>
+<hosthint><status state="up" reason="arp-response" reason_ttl="0"/>
+<address addr="192.168.0.155" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+</hosthint>
+<taskend task="ARP Ping Scan" time="1670997344" extrainfo="1 total hosts"/>
+<taskbegin task="SYN Stealth Scan" time="1670997344"/>
+<taskprogress task="SYN Stealth Scan" time="1670997375" percent="18.66" remaining="136" etc="1670997510"/>
+<taskprogress task="SYN Stealth Scan" time="1670997405" percent="44.88" remaining="75" etc="1670997480"/>
+<taskend task="SYN Stealth Scan" time="1670997454" extrainfo="65535 total ports"/>
+<taskbegin task="Service scan" time="1670997454"/>
+<taskprogress task="Service scan" time="1670997611" percent="83.33" remaining="32" etc="1670997642"/>
+<taskend task="Service scan" time="1670997611" extrainfo="12 services on 1 host"/>
+<taskbegin task="NSE" time="1670997611"/>
+<taskend task="NSE" time="1670997618"/>
+<taskbegin task="NSE" time="1670997618"/>
+<taskend task="NSE" time="1670997620"/>
+<host starttime="1670997344" endtime="1670997620"><status state="up" reason="arp-response" reason_ttl="0"/>
+<address addr="192.168.0.155" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<ports><extraports state="filtered" count="65523">
+<extrareasons reason="no-response" count="65523" proto="tcp" ports="1-79,81-134,136-138,140-444,446-3388,3390-5039,5041-5356,5358-5799,5801-5899,5901-49668,49670-54507,54509-55304,55306-65535"/>
+</extraports>
+<port protocol="tcp" portid="80"><state state="open" reason="syn-ack" reason_ttl="128"/><service name="http" product="Microsoft IIS httpd" version="10.0" ostype="Windows" method="probed" conf="10"><cpe>cpe:/a:microsoft:internet_information_services:10.0</cpe><cpe>cpe:/o:microsoft:windows</cpe></service></port>
+<port protocol="tcp" portid="135"><state state="open" reason="syn-ack" reason_ttl="128"/><service name="msrpc" product="Microsoft Windows RPC" ostype="Windows" method="probed" conf="10"><cpe>cpe:/o:microsoft:windows</cpe></service></port>
+<port protocol="tcp" portid="139"><state state="open" reason="syn-ack" reason_ttl="128"/><service name="netbios-ssn" product="Microsoft Windows netbios-ssn" ostype="Windows" method="probed" conf="10"><cpe>cpe:/o:microsoft:windows</cpe></service></port>
+<port protocol="tcp" portid="445"><state state="open" reason="syn-ack" reason_ttl="128"/><service name="microsoft-ds" method="table" conf="3"/></port>
+<port protocol="tcp" portid="3389"><state state="open" reason="syn-ack" reason_ttl="128"/><service name="ms-wbt-server" product="Microsoft Terminal Services" ostype="Windows" method="probed" conf="10"><cpe>cpe:/o:microsoft:windows</cpe></service></port>
+<port protocol="tcp" portid="5040"><state state="open" reason="syn-ack" reason_ttl="128"/><service name="unknown" method="table" conf="3"/></port>
+<port protocol="tcp" portid="5357"><state state="open" reason="syn-ack" reason_ttl="128"/><service name="http" product="Microsoft HTTPAPI httpd" version="2.0" extrainfo="SSDP/UPnP" ostype="Windows" method="probed" conf="10"><cpe>cpe:/o:microsoft:windows</cpe></service></port>
+<port protocol="tcp" portid="5800"><state state="open" reason="syn-ack" reason_ttl="128"/><service name="vnc-http" product="TightVNC" extrainfo="user: nasserver155; VNC TCP port: 5900" method="probed" conf="10"><cpe>cpe:/a:tightvnc:tightvnc</cpe></service></port>
+<port protocol="tcp" portid="5900"><state state="open" reason="syn-ack" reason_ttl="128"/><service name="vnc" product="VNC" extrainfo="protocol 3.8" method="probed" conf="10"/></port>
+<port protocol="tcp" portid="49669"><state state="open" reason="syn-ack" reason_ttl="128"/><service name="msrpc" product="Microsoft Windows RPC" ostype="Windows" method="probed" conf="10"><cpe>cpe:/o:microsoft:windows</cpe></service></port>
+<port protocol="tcp" portid="54508"><state state="open" reason="syn-ack" reason_ttl="128"/></port>
+<port protocol="tcp" portid="55305"><state state="open" reason="syn-ack" reason_ttl="128"/></port>
+</ports>
+<times srtt="8922" rttvar="5531" to="100000"/>
+</host>
+<runstats><finished time="1670997620" timestr="Wed Dec 14 09:00:20 2022" summary="Nmap done at Wed Dec 14 09:00:20 2022; 1 IP address (1 host up) scanned in 277.71 seconds" elapsed="277.71" exit="success"/><hosts up="1" down="0" total="1"/>
+</runstats>
+</nmaprun>
