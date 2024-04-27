@@ -1,9 +1,12 @@
 # IPY_51 (индивидуальные приборы учёта)
 
 # Full stack проект для работы с реляционной базой данных.
-Пример работы:
+Windows 7:
+![win7](https://github.com/sxfour/python_all_projects/assets/112577182/604ec33e-8848-4a12-8ecc-b5acf6b7fdb5)
 
-https://user-images.githubusercontent.com/112577182/233447091-60ba8f29-7d7b-4cb6-9e66-ea31b8e67ab5.mp4
+Windows 10:
+![win10](https://github.com/sxfour/python_all_projects/assets/112577182/05527ef3-9988-4c74-a097-e822f66f97d2)
+
 
 - Основной backend соединения с бд в packages, .ini в postgresql
 - Логирование исключений.
@@ -24,9 +27,6 @@ https://user-images.githubusercontent.com/112577182/233447091-60ba8f29-7d7b-4cb6
 # Compitable Windows 10 (64bit,32bit) / Windows 7 (64bit,32bit)
 
 # Авторизация пользователя.
-
-![изображение](https://github.com/sxfour/IPY_51/assets/112577182/cbb77145-fdc8-435b-b727-ecd24ce174ac)
-
 Для каждого имени создается UUID с содержанием строки Имени и мак адреса устройства,поэтому
 при входе в приложение, в базе пользователей должны совпадать эти параметры с имеющимся мак адресом.
 
