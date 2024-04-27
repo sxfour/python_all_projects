@@ -1,10 +1,10 @@
 # IPY_51 (индивидуальные приборы учёта)
 
 # Full stack проект для работы с реляционной базой данных.
-Windows 7:
+# Windows 7:
 ![win7](https://github.com/sxfour/python_all_projects/assets/112577182/604ec33e-8848-4a12-8ecc-b5acf6b7fdb5)
 
-Windows 10:
+# Windows 10:
 ![win10](https://github.com/sxfour/python_all_projects/assets/112577182/05527ef3-9988-4c74-a097-e822f66f97d2)
 
 
