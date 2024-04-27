@@ -1,0 +1,10 @@
+
+[+] [SQL] Request : [SELECT version(), CURRENT_DATE;] completed, connection closed
+
+[+] [SQL] Request : [SELECT * FROM ipy_names;] completed, connection closed
+
+[!] [TIME] Datetime (OK) : Server : 2024-04-12, Client : 12.04.2024
+
+[+] [SQL] Request : [SELECT * FROM login_data WHERE login = 'ЕгорДом';] completed, connection closed
+
+[+] [SQL] Request : [SELECT version(), CURRENT_DATE;] completed, connection closed
