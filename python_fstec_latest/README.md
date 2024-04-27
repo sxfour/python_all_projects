@@ -1,7 +1,6 @@
 # Fstec finder on csv & postgresql
 
-
-https://user-images.githubusercontent.com/112577182/213696604-ee9a10e4-d435-42bc-bcfb-65a587a66909.mp4
+https://github.com/sxfour/python_all_projects/assets/112577182/60e81ffa-c024-4aa4-988c-db2980e216af
 
 
 1. [Vers. WITH POSTGRESQL]
@@ -17,29 +16,24 @@ https://user-images.githubusercontent.com/112577182/213696604-ee9a10e4-d435-42bc
 - Вариант 2 import backup.
 Импортируем готовый backup базы
 
-![изображение](https://user-images.githubusercontent.com/112577182/213687761-3d16d62b-8c86-47d6-8b6b-354eb08c5e3e.png)
-
+![1](https://github.com/sxfour/python_all_projects/assets/112577182/a597d3cc-8776-428b-8c8e-6364e4fc1335)
 
 postgresql/database.ini, Указываете вашу базу данных и остальные настройки, если меняли дефолт порт при установке PostgreSQL, обязательно вписываем в .ini
 
-![изображение](https://user-images.githubusercontent.com/112577182/213695810-cf3a1a6d-6d23-46fa-a36b-1c8a316f287c.png)
-
+![2](https://github.com/sxfour/python_all_projects/assets/112577182/88af5a71-c0d8-4264-b0b9-6515ddd2c971)
 
 Запускаем головной __init__.py из packages
 
-![изображение](https://user-images.githubusercontent.com/112577182/213696092-b170ad0c-7e1f-4e95-9212-dcd2f9a9364f.png)
+![3](https://github.com/sxfour/python_all_projects/assets/112577182/4b39c5dd-311e-4bb0-ab4d-f9114f2d9799)
 
-
-![изображение](https://user-images.githubusercontent.com/112577182/213696119-f0f4c0d8-4ec4-4bcc-ae9b-19c7eee2738c.png)
-
-
+![4](https://github.com/sxfour/python_all_projects/assets/112577182/87353001-db05-4519-af2b-9d02c4a2f9fc)
 
 2. [Vers. WITHOUT SQL DATABASE]
 
 - Поиск уязвимостей по csv данным fstec, используя ключевое слово для поиска, например CVE уязвимости
 
-![fstec1](https://user-images.githubusercontent.com/112577182/211744232-2318449c-4877-4e3f-bd71-4159cc4ca29c.PNG)
+![5](https://github.com/sxfour/python_all_projects/assets/112577182/9c4df0ac-7723-42d4-aa32-5b2098ff48b6)
 
 - Результат отражается с помощью rich tables в консоль
 
-![Снимок2](https://user-images.githubusercontent.com/112577182/211798353-8883df39-15b6-47fc-a522-9457ae6a8dbc.PNG)
+![6](https://github.com/sxfour/python_all_projects/assets/112577182/87cdf463-7f0d-42f8-9c52-bdefea2014d3)
