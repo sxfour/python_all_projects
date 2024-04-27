@@ -1,0 +1,508 @@
+2024-01-23 20:34:35,141 INFO Starting... [SMB CHECK]: dict: {785: 0, 770: 0, 768: 0, 528: 0, 514: 0, 767: 0} port: 445 timeout: 25
+2024-01-23 20:34:35,141 INFO Initialising connection, guid: a00237ae-3404-4bf7-9dd5-c8ec133b3797, require_signing: True, server_name: 178.60.223.103, port: 445
+2024-01-23 20:34:35,141 INFO Setting up transport connection
+2024-01-23 20:34:35,142 INFO Connecting to DirectTcp socket
+2024-01-23 20:34:35,259 INFO Starting negotiation with SMB server
+2024-01-23 20:34:35,259 INFO Negotiating with SMB2 protocol with highest client dialect of: SMB_3_1_1
+2024-01-23 20:34:35,262 INFO Sending SMB2 Negotiate message
+2024-01-23 20:34:35,374 INFO Receiving SMB2 Negotiate response
+2024-01-23 20:34:35,376 INFO Negotiated dialect: (785) SMB_3_1_1
+2024-01-23 20:34:35,376 INFO Connection require signing: True
+2024-01-23 20:34:35,376 INFO Disconnecting transport connection
+2024-01-23 20:34:35,376 INFO Disconnecting DirectTcp socket
+2024-01-23 20:34:35,486 INFO Initialising connection, guid: d5c9895f-9a5b-4ee7-abc8-7c76439eb319, require_signing: True, server_name: 178.61.158.143, port: 445
+2024-01-23 20:34:35,486 INFO Setting up transport connection
+2024-01-23 20:34:35,486 INFO Connecting to DirectTcp socket
+2024-01-23 20:34:35,683 INFO Starting negotiation with SMB server
+2024-01-23 20:34:35,684 INFO Negotiating with SMB2 protocol with highest client dialect of: SMB_3_1_1
+2024-01-23 20:34:35,685 INFO Sending SMB2 Negotiate message
+2024-01-23 20:34:35,874 INFO Disconnecting DirectTcp socket
+2024-01-23 20:34:35,874 INFO Initialising connection, guid: 801ff25e-fbbe-4c0b-860b-aa79cd36ad7a, require_signing: True, server_name: 178.61.136.91, port: 445
+2024-01-23 20:34:35,875 INFO Setting up transport connection
+2024-01-23 20:34:35,875 INFO Connecting to DirectTcp socket
+2024-01-23 20:34:36,070 INFO Starting negotiation with SMB server
+2024-01-23 20:34:36,071 INFO Negotiating with SMB2 protocol with highest client dialect of: SMB_3_1_1
+2024-01-23 20:34:36,072 INFO Sending SMB2 Negotiate message
+2024-01-23 20:34:36,256 INFO Disconnecting DirectTcp socket
+2024-01-23 20:34:36,256 INFO Initialising connection, guid: 397fb158-bc89-4a23-a826-cf05f9f3d88b, require_signing: True, server_name: 178.61.136.174, port: 445
+2024-01-23 20:34:36,256 INFO Setting up transport connection
+2024-01-23 20:34:36,257 INFO Connecting to DirectTcp socket
+2024-01-23 20:34:36,456 INFO Starting negotiation with SMB server
+2024-01-23 20:34:36,457 INFO Negotiating with SMB2 protocol with highest client dialect of: SMB_3_1_1
+2024-01-23 20:34:36,458 INFO Sending SMB2 Negotiate message
+2024-01-23 20:34:36,642 INFO Disconnecting DirectTcp socket
+2024-01-23 20:34:36,642 INFO Initialising connection, guid: 28de5559-3340-4943-a436-a778c11c5a18, require_signing: True, server_name: 178.61.137.245, port: 445
+2024-01-23 20:34:36,642 INFO Setting up transport connection
+2024-01-23 20:34:36,643 INFO Connecting to DirectTcp socket
+2024-01-23 20:34:36,843 INFO Starting negotiation with SMB server
+2024-01-23 20:34:36,844 INFO Negotiating with SMB2 protocol with highest client dialect of: SMB_3_1_1
+2024-01-23 20:34:36,845 INFO Sending SMB2 Negotiate message
+2024-01-23 20:34:37,033 INFO Disconnecting DirectTcp socket
+2024-01-23 20:34:37,034 INFO Initialising connection, guid: 3936bf2a-a58b-47a6-a63e-38da54593500, require_signing: True, server_name: 78.201.156.137, port: 445
+2024-01-23 20:34:37,034 INFO Setting up transport connection
+2024-01-23 20:34:37,034 INFO Connecting to DirectTcp socket
+2024-01-23 20:34:37,666 INFO Starting negotiation with SMB server
+2024-01-23 20:34:37,667 INFO Negotiating with SMB2 protocol with highest client dialect of: SMB_3_1_1
+2024-01-23 20:34:37,668 INFO Sending SMB2 Negotiate message
+2024-01-23 20:34:37,947 INFO Initialising connection, guid: da4b924a-04c0-4ce1-9fa9-b8f4cb318873, require_signing: True, server_name: 78.201.156.137, port: 445
+2024-01-23 20:34:37,948 INFO Setting up transport connection
+2024-01-23 20:34:37,948 INFO Connecting to DirectTcp socket
+2024-01-23 20:34:38,222 INFO Starting negotiation with SMB server
+2024-01-23 20:34:38,223 INFO Negotiating with SMB2 protocol with highest client dialect of: SMB_3_0_2
+2024-01-23 20:34:38,223 INFO Sending SMB2 Negotiate message
+2024-01-23 20:34:38,674 INFO Initialising connection, guid: 227008bf-6eaa-4591-9a6b-9bd1a503cf14, require_signing: True, server_name: 78.201.156.137, port: 445
+2024-01-23 20:34:38,675 INFO Setting up transport connection
+2024-01-23 20:34:38,675 INFO Connecting to DirectTcp socket
+2024-01-23 20:34:39,887 INFO Starting negotiation with SMB server
+2024-01-23 20:34:39,887 INFO Negotiating with SMB2 protocol with highest client dialect of: SMB_3_0_0
+2024-01-23 20:34:39,888 INFO Sending SMB2 Negotiate message
+2024-01-23 20:34:40,274 INFO Initialising connection, guid: 82316b1a-c10e-495a-b4dc-9dd6a9202b70, require_signing: True, server_name: 78.201.156.137, port: 445
+2024-01-23 20:34:40,275 INFO Setting up transport connection
+2024-01-23 20:34:40,275 INFO Connecting to DirectTcp socket
+2024-01-23 20:34:41,576 INFO Starting negotiation with SMB server
+2024-01-23 20:34:41,577 INFO Negotiating with SMB2 protocol with highest client dialect of: SMB_2_1_0
+2024-01-23 20:34:41,577 INFO Sending SMB2 Negotiate message
+2024-01-23 20:34:41,966 INFO Receiving SMB2 Negotiate response
+2024-01-23 20:34:41,967 INFO Negotiated dialect: (528) SMB_2_1_0
+2024-01-23 20:34:41,967 INFO Connection require signing: True
+2024-01-23 20:34:41,967 INFO Disconnecting transport connection
+2024-01-23 20:34:41,967 INFO Disconnecting DirectTcp socket
+2024-01-23 20:34:42,495 INFO Initialising connection, guid: e2e2fc99-96da-4efa-bc1e-784d9e5d95d0, require_signing: True, server_name: 178.61.131.44, port: 445
+2024-01-23 20:34:42,495 INFO Setting up transport connection
+2024-01-23 20:34:42,495 INFO Connecting to DirectTcp socket
+2024-01-23 20:34:42,716 INFO Starting negotiation with SMB server
+2024-01-23 20:34:42,717 INFO Negotiating with SMB2 protocol with highest client dialect of: SMB_3_1_1
+2024-01-23 20:34:42,718 INFO Sending SMB2 Negotiate message
+2024-01-23 20:34:42,922 INFO Disconnecting DirectTcp socket
+2024-01-23 20:34:42,923 INFO Initialising connection, guid: d34c30b6-2651-4b21-90f6-f72fc2e4b8e7, require_signing: True, server_name: 178.60.234.10, port: 445
+2024-01-23 20:34:42,923 INFO Setting up transport connection
+2024-01-23 20:34:42,923 INFO Connecting to DirectTcp socket
+2024-01-23 20:34:43,086 INFO Starting negotiation with SMB server
+2024-01-23 20:34:43,087 INFO Negotiating with SMB2 protocol with highest client dialect of: SMB_3_1_1
+2024-01-23 20:34:43,088 INFO Sending SMB2 Negotiate message
+2024-01-23 20:34:43,247 INFO Receiving SMB2 Negotiate response
+2024-01-23 20:34:43,248 INFO Negotiated dialect: (785) SMB_3_1_1
+2024-01-23 20:34:43,248 INFO Connection require signing: True
+2024-01-23 20:34:43,248 INFO Disconnecting transport connection
+2024-01-23 20:34:43,248 INFO Disconnecting DirectTcp socket
+2024-01-23 20:34:43,394 INFO Initialising connection, guid: 78c0432d-6cdb-4c74-aa1c-1a9a70698618, require_signing: True, server_name: 178.61.156.62, port: 445
+2024-01-23 20:34:43,394 INFO Setting up transport connection
+2024-01-23 20:34:43,394 INFO Connecting to DirectTcp socket
+2024-01-23 20:34:43,598 INFO Starting negotiation with SMB server
+2024-01-23 20:34:43,599 INFO Negotiating with SMB2 protocol with highest client dialect of: SMB_3_1_1
+2024-01-23 20:34:43,600 INFO Sending SMB2 Negotiate message
+2024-01-23 20:34:43,779 INFO Disconnecting DirectTcp socket
+2024-01-23 20:34:43,779 INFO Initialising connection, guid: ab5196fd-7586-4316-ac98-f0bfd2b11771, require_signing: True, server_name: 178.61.143.77, port: 445
+2024-01-23 20:34:43,780 INFO Setting up transport connection
+2024-01-23 20:34:43,780 INFO Connecting to DirectTcp socket
+2024-01-23 20:34:43,957 INFO Starting negotiation with SMB server
+2024-01-23 20:34:43,958 INFO Negotiating with SMB2 protocol with highest client dialect of: SMB_3_1_1
+2024-01-23 20:34:43,959 INFO Sending SMB2 Negotiate message
+2024-01-23 20:34:44,139 INFO Disconnecting DirectTcp socket
+2024-01-23 20:34:44,140 INFO Initialising connection, guid: 1465e8ed-137a-451a-8268-e44e71b4aaf7, require_signing: True, server_name: 178.61.136.195, port: 445
+2024-01-23 20:34:44,140 INFO Setting up transport connection
+2024-01-23 20:34:44,140 INFO Connecting to DirectTcp socket
+2024-01-23 20:34:44,340 INFO Starting negotiation with SMB server
+2024-01-23 20:34:44,341 INFO Negotiating with SMB2 protocol with highest client dialect of: SMB_3_1_1
+2024-01-23 20:34:44,342 INFO Sending SMB2 Negotiate message
+2024-01-23 20:34:44,526 INFO Disconnecting DirectTcp socket
+2024-01-23 20:34:44,527 INFO Initialising connection, guid: dcb2d52c-7cd3-4467-99f1-a54396eb21ea, require_signing: True, server_name: 178.61.150.248, port: 445
+2024-01-23 20:34:44,527 INFO Setting up transport connection
+2024-01-23 20:34:44,527 INFO Connecting to DirectTcp socket
+2024-01-23 20:34:44,744 INFO Starting negotiation with SMB server
+2024-01-23 20:34:44,745 INFO Negotiating with SMB2 protocol with highest client dialect of: SMB_3_1_1
+2024-01-23 20:34:44,745 INFO Sending SMB2 Negotiate message
+2024-01-23 20:34:44,939 INFO Disconnecting DirectTcp socket
+2024-01-23 20:34:44,940 INFO Initialising connection, guid: d3ad17ef-076d-4f49-a3cc-8c26dd0b049d, require_signing: True, server_name: 178.60.222.18, port: 445
+2024-01-23 20:34:44,940 INFO Setting up transport connection
+2024-01-23 20:34:44,940 INFO Connecting to DirectTcp socket
+2024-01-23 20:34:45,056 INFO Starting negotiation with SMB server
+2024-01-23 20:34:45,057 INFO Negotiating with SMB2 protocol with highest client dialect of: SMB_3_1_1
+2024-01-23 20:34:45,058 INFO Sending SMB2 Negotiate message
+2024-01-23 20:34:45,160 INFO Initialising connection, guid: e131b008-7e76-4fb5-b549-1d8070dff1b7, require_signing: True, server_name: 178.60.222.18, port: 445
+2024-01-23 20:34:45,160 INFO Setting up transport connection
+2024-01-23 20:34:45,160 INFO Connecting to DirectTcp socket
+2024-01-23 20:34:45,269 INFO Starting negotiation with SMB server
+2024-01-23 20:34:45,270 INFO Negotiating with SMB2 protocol with highest client dialect of: SMB_3_0_2
+2024-01-23 20:34:45,270 INFO Sending SMB2 Negotiate message
+2024-01-23 20:34:45,371 INFO Initialising connection, guid: a780e638-dd9b-4268-9e3d-4fd3f402c7cc, require_signing: True, server_name: 178.60.222.18, port: 445
+2024-01-23 20:34:45,372 INFO Setting up transport connection
+2024-01-23 20:34:45,372 INFO Connecting to DirectTcp socket
+2024-01-23 20:34:45,487 INFO Starting negotiation with SMB server
+2024-01-23 20:34:45,488 INFO Negotiating with SMB2 protocol with highest client dialect of: SMB_3_0_0
+2024-01-23 20:34:45,488 INFO Sending SMB2 Negotiate message
+2024-01-23 20:34:45,595 INFO Initialising connection, guid: 9b75f774-4fba-4b0b-a2dd-525a43bfef20, require_signing: True, server_name: 178.60.222.18, port: 445
+2024-01-23 20:34:45,595 INFO Setting up transport connection
+2024-01-23 20:34:45,596 INFO Connecting to DirectTcp socket
+2024-01-23 20:34:45,719 INFO Starting negotiation with SMB server
+2024-01-23 20:34:45,720 INFO Negotiating with SMB2 protocol with highest client dialect of: SMB_2_1_0
+2024-01-23 20:34:45,720 INFO Sending SMB2 Negotiate message
+2024-01-23 20:34:45,830 INFO Initialising connection, guid: 3e78af5e-d102-45ef-9b34-6b72725e78bb, require_signing: True, server_name: 178.60.222.18, port: 445
+2024-01-23 20:34:45,830 INFO Setting up transport connection
+2024-01-23 20:34:45,830 INFO Connecting to DirectTcp socket
+2024-01-23 20:34:45,950 INFO Starting negotiation with SMB server
+2024-01-23 20:34:45,951 INFO Negotiating with SMB2 protocol with highest client dialect of: SMB_2_0_2
+2024-01-23 20:34:45,951 INFO Sending SMB2 Negotiate message
+2024-01-23 20:34:46,059 INFO Receiving SMB2 Negotiate response
+2024-01-23 20:34:46,060 INFO Negotiated dialect: (514) SMB_2_0_2
+2024-01-23 20:34:46,060 INFO Connection require signing: True
+2024-01-23 20:34:46,060 INFO Disconnecting transport connection
+2024-01-23 20:34:46,060 INFO Disconnecting DirectTcp socket
+2024-01-23 20:34:46,161 INFO Initialising connection, guid: b5407284-4d00-4162-95f0-86d4fe98eacb, require_signing: True, server_name: 178.61.141.215, port: 445
+2024-01-23 20:34:46,161 INFO Setting up transport connection
+2024-01-23 20:34:46,161 INFO Connecting to DirectTcp socket
+2024-01-23 20:34:46,368 INFO Starting negotiation with SMB server
+2024-01-23 20:34:46,369 INFO Negotiating with SMB2 protocol with highest client dialect of: SMB_3_1_1
+2024-01-23 20:34:46,370 INFO Sending SMB2 Negotiate message
+2024-01-23 20:34:46,557 INFO Disconnecting DirectTcp socket
+2024-01-23 20:34:46,558 INFO Initialising connection, guid: f799b024-27e3-4297-b8b7-099d4467366a, require_signing: True, server_name: 178.61.107.214, port: 445
+2024-01-23 20:34:46,558 INFO Setting up transport connection
+2024-01-23 20:34:46,558 INFO Connecting to DirectTcp socket
+2024-01-23 20:34:46,730 INFO Starting negotiation with SMB server
+2024-01-23 20:34:46,731 INFO Negotiating with SMB2 protocol with highest client dialect of: SMB_3_1_1
+2024-01-23 20:34:46,732 INFO Sending SMB2 Negotiate message
+2024-01-23 20:34:46,904 INFO Disconnecting DirectTcp socket
+2024-01-23 20:34:46,905 INFO Initialising connection, guid: 7025b4d8-6fb1-404a-9c62-d17ef7e98011, require_signing: True, server_name: 178.60.234.173, port: 445
+2024-01-23 20:34:46,905 INFO Setting up transport connection
+2024-01-23 20:34:46,905 INFO Connecting to DirectTcp socket
+2024-01-23 20:34:47,041 INFO Starting negotiation with SMB server
+2024-01-23 20:34:47,041 INFO Negotiating with SMB2 protocol with highest client dialect of: SMB_3_1_1
+2024-01-23 20:34:47,043 INFO Sending SMB2 Negotiate message
+2024-01-23 20:34:47,179 INFO Initialising connection, guid: 6116877a-6e01-48f1-9bc1-6ae657b1d8cf, require_signing: True, server_name: 178.60.234.173, port: 445
+2024-01-23 20:34:47,179 INFO Setting up transport connection
+2024-01-23 20:34:47,179 INFO Connecting to DirectTcp socket
+2024-01-23 20:34:47,329 INFO Starting negotiation with SMB server
+2024-01-23 20:34:47,330 INFO Negotiating with SMB2 protocol with highest client dialect of: SMB_3_0_2
+2024-01-23 20:34:47,330 INFO Sending SMB2 Negotiate message
+2024-01-23 20:34:47,463 INFO Receiving SMB2 Negotiate response
+2024-01-23 20:34:47,463 INFO Negotiated dialect: (770) SMB_3_0_2
+2024-01-23 20:34:47,464 INFO Connection require signing: True
+2024-01-23 20:34:47,464 INFO Disconnecting transport connection
+2024-01-23 20:34:47,464 INFO Disconnecting DirectTcp socket
+2024-01-23 20:34:47,594 INFO Initialising connection, guid: 3ea9d569-a00c-4754-be3b-d529e0cf2bb0, require_signing: True, server_name: 178.61.104.181, port: 445
+2024-01-23 20:34:47,594 INFO Setting up transport connection
+2024-01-23 20:34:47,594 INFO Connecting to DirectTcp socket
+2024-01-23 20:34:47,793 INFO Starting negotiation with SMB server
+2024-01-23 20:34:47,794 INFO Negotiating with SMB2 protocol with highest client dialect of: SMB_3_1_1
+2024-01-23 20:34:47,795 INFO Sending SMB2 Negotiate message
+2024-01-23 20:34:47,981 INFO Disconnecting DirectTcp socket
+2024-01-23 20:34:47,981 INFO Initialising connection, guid: 91dccef6-8239-43ac-b4bb-5314c25990b5, require_signing: True, server_name: 178.61.140.60, port: 445
+2024-01-23 20:34:47,982 INFO Setting up transport connection
+2024-01-23 20:34:47,982 INFO Connecting to DirectTcp socket
+2024-01-23 20:34:48,179 INFO Starting negotiation with SMB server
+2024-01-23 20:34:48,180 INFO Negotiating with SMB2 protocol with highest client dialect of: SMB_3_1_1
+2024-01-23 20:34:48,181 INFO Sending SMB2 Negotiate message
+2024-01-23 20:34:48,367 INFO Initialising connection, guid: 51e6dbb2-1837-4955-bbcb-9514220be85b, require_signing: True, server_name: 178.61.140.60, port: 445
+2024-01-23 20:34:48,368 INFO Setting up transport connection
+2024-01-23 20:34:48,368 INFO Connecting to DirectTcp socket
+2024-01-23 20:34:48,577 INFO Starting negotiation with SMB server
+2024-01-23 20:34:48,578 INFO Negotiating with SMB2 protocol with highest client dialect of: SMB_3_0_2
+2024-01-23 20:34:48,578 INFO Sending SMB2 Negotiate message
+2024-01-23 20:34:48,764 INFO Initialising connection, guid: 352b07f1-7dcd-4e7c-a126-e8427cb42183, require_signing: True, server_name: 178.61.140.60, port: 445
+2024-01-23 20:34:48,765 INFO Setting up transport connection
+2024-01-23 20:34:48,765 INFO Connecting to DirectTcp socket
+2024-01-23 20:34:48,968 INFO Starting negotiation with SMB server
+2024-01-23 20:34:48,969 INFO Negotiating with SMB2 protocol with highest client dialect of: SMB_3_0_0
+2024-01-23 20:34:48,969 INFO Sending SMB2 Negotiate message
+2024-01-23 20:34:49,158 INFO Initialising connection, guid: 17949ba4-9b3e-49b6-8278-4f92a1aee0e4, require_signing: True, server_name: 178.61.140.60, port: 445
+2024-01-23 20:34:49,159 INFO Setting up transport connection
+2024-01-23 20:34:49,159 INFO Connecting to DirectTcp socket
+2024-01-23 20:34:49,341 INFO Starting negotiation with SMB server
+2024-01-23 20:34:49,342 INFO Negotiating with SMB2 protocol with highest client dialect of: SMB_2_1_0
+2024-01-23 20:34:49,342 INFO Sending SMB2 Negotiate message
+2024-01-23 20:34:49,527 INFO Initialising connection, guid: d553be5e-48a7-46a3-9489-0b68ae268311, require_signing: True, server_name: 178.61.140.60, port: 445
+2024-01-23 20:34:49,527 INFO Setting up transport connection
+2024-01-23 20:34:49,527 INFO Connecting to DirectTcp socket
+2024-01-23 20:34:49,741 INFO Starting negotiation with SMB server
+2024-01-23 20:34:49,742 INFO Negotiating with SMB2 protocol with highest client dialect of: SMB_2_0_2
+2024-01-23 20:34:49,742 INFO Sending SMB2 Negotiate message
+2024-01-23 20:34:49,952 INFO Receiving SMB2 Negotiate response
+2024-01-23 20:34:49,952 INFO Negotiated dialect: (514) SMB_2_0_2
+2024-01-23 20:34:49,953 INFO Connection require signing: True
+2024-01-23 20:34:49,953 INFO Disconnecting transport connection
+2024-01-23 20:34:49,953 INFO Disconnecting DirectTcp socket
+2024-01-23 20:34:50,167 INFO Initialising connection, guid: 1e48739c-b4c1-4c6a-9353-2b356674869c, require_signing: True, server_name: 178.61.156.235, port: 445
+2024-01-23 20:34:50,167 INFO Setting up transport connection
+2024-01-23 20:34:50,167 INFO Connecting to DirectTcp socket
+2024-01-23 20:34:50,373 INFO Starting negotiation with SMB server
+2024-01-23 20:34:50,374 INFO Negotiating with SMB2 protocol with highest client dialect of: SMB_3_1_1
+2024-01-23 20:34:50,375 INFO Sending SMB2 Negotiate message
+2024-01-23 20:34:50,562 INFO Disconnecting DirectTcp socket
+2024-01-23 20:34:50,563 INFO Initialising connection, guid: 9ce35a61-91ea-4adb-b3ac-b46d22f4c322, require_signing: True, server_name: 78.109.47.110, port: 445
+2024-01-23 20:34:50,563 INFO Setting up transport connection
+2024-01-23 20:34:50,563 INFO Connecting to DirectTcp socket
+2024-01-23 20:34:50,759 INFO Starting negotiation with SMB server
+2024-01-23 20:34:50,759 INFO Negotiating with SMB2 protocol with highest client dialect of: SMB_3_1_1
+2024-01-23 20:34:50,760 INFO Sending SMB2 Negotiate message
+2024-01-23 20:34:50,955 INFO Receiving SMB2 Negotiate response
+2024-01-23 20:34:50,956 INFO Negotiated dialect: (785) SMB_3_1_1
+2024-01-23 20:34:50,956 INFO Connection require signing: True
+2024-01-23 20:34:50,957 INFO Disconnecting transport connection
+2024-01-23 20:34:50,957 INFO Disconnecting DirectTcp socket
+2024-01-23 20:34:56,376 INFO Diagram created... all_count: [3, 1, 0, 1, 2, 0]
+2024-01-23 20:35:02,702 INFO Start scanning with [DUMPS DIRS ON SHARES SMB]...
+2024-01-23 20:35:02,703 INFO Authentication with remote machine "178.60.223.103" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-23 20:35:02,703 INFO Authentication with remote machine "178.61.158.143" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-23 20:35:02,704 INFO Authentication with remote machine "178.61.136.91" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-23 20:35:02,704 INFO Authentication with remote machine "178.61.136.174" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-23 20:35:02,705 INFO Authentication with remote machine "178.61.137.245" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-23 20:35:02,705 INFO Authentication with remote machine "78.201.156.137" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-23 20:35:02,705 INFO Authentication with remote machine "178.61.131.44" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-23 20:35:02,706 INFO Authentication with remote machine "178.60.234.10" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-23 20:35:02,706 INFO Authentication with remote machine "178.61.156.62" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-23 20:35:02,706 INFO Authentication with remote machine "178.61.143.77" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-23 20:35:02,707 INFO Authentication with remote machine "178.61.136.195" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-23 20:35:02,707 INFO Authentication with remote machine "178.61.150.248" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-23 20:35:02,708 INFO Authentication with remote machine "178.60.222.18" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-23 20:35:02,708 INFO Authentication with remote machine "178.61.141.215" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-23 20:35:02,709 INFO Authentication with remote machine "178.61.107.214" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-23 20:35:02,709 INFO Authentication with remote machine "178.60.234.173" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-23 20:35:02,709 INFO Authentication with remote machine "178.61.104.181" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-23 20:35:02,710 INFO Authentication with remote machine "178.61.140.60" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-23 20:35:02,710 INFO Authentication with remote machine "178.61.156.235" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-23 20:35:02,711 INFO Authentication with remote machine "78.109.47.110" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-23 20:35:02,926 INFO Now switching over to SMB2 protocol communication
+2024-01-23 20:35:02,926 INFO SMB2 dialect negotiation successful
+2024-01-23 20:35:02,934 INFO Now switching over to SMB2 protocol communication
+2024-01-23 20:35:02,934 INFO SMB2 dialect negotiation successful
+2024-01-23 20:35:02,981 INFO Now switching over to SMB2 protocol communication
+2024-01-23 20:35:02,981 INFO SMB2 dialect negotiation successful
+2024-01-23 20:35:02,983 INFO Now switching over to SMB2 protocol communication
+2024-01-23 20:35:02,984 INFO SMB2 dialect negotiation successful
+2024-01-23 20:35:03,031 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'09babedc563f4e3a'"
+2024-01-23 20:35:03,032 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'09babedc563f4e3a'"
+2024-01-23 20:35:03,035 INFO Server supports SMB signing
+2024-01-23 20:35:03,035 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-23 20:35:03,053 INFO SMB dialect negotiation successful (ExtendedSecurity:False)
+2024-01-23 20:35:03,058 INFO Performing NTLMv1 authentication (without extended security) with challenge "b'd799b3ec1cddcdb2'" and hashed password of "b'96f297561b455890c20a7ed28b3a737898719e5c7bdf936c'"
+2024-01-23 20:35:03,060 INFO SMB dialect negotiation successful (ExtendedSecurity:False)
+2024-01-23 20:35:03,072 INFO Performing NTLMv1 authentication (without extended security) with challenge "b'333f21aba3c93366'" and hashed password of "b'd35456072e57f0558a74f6897dc757cc772492ade7f4f245'"
+2024-01-23 20:35:03,073 INFO SMB dialect negotiation successful (ExtendedSecurity:False)
+2024-01-23 20:35:03,073 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'6b93fd75d9439185'"
+2024-01-23 20:35:03,085 INFO Performing NTLMv1 authentication (without extended security) with challenge "b'f717020ef8cc8eb4'" and hashed password of "b'8973b0aa5aa52a07624ed658780587cf42aa5fd3f1384909'"
+2024-01-23 20:35:03,086 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'6b93fd75d9439185'"
+2024-01-23 20:35:03,086 INFO SMB dialect negotiation successful (ExtendedSecurity:False)
+2024-01-23 20:35:03,086 INFO SMB dialect negotiation successful (ExtendedSecurity:False)
+2024-01-23 20:35:03,086 INFO SMB dialect negotiation successful (ExtendedSecurity:False)
+2024-01-23 20:35:03,087 INFO SMB dialect negotiation successful (ExtendedSecurity:False)
+2024-01-23 20:35:03,087 INFO SMB dialect negotiation successful (ExtendedSecurity:False)
+2024-01-23 20:35:03,090 INFO SMB dialect negotiation successful (ExtendedSecurity:False)
+2024-01-23 20:35:03,090 INFO SMB dialect negotiation successful (ExtendedSecurity:False)
+2024-01-23 20:35:03,090 INFO Server supports SMB signing
+2024-01-23 20:35:03,102 INFO Performing NTLMv1 authentication (without extended security) with challenge "b'a7938197692bff21'" and hashed password of "b'd1ee30f7453b00e567574989cae5a12a0ce29f78663f4772'"
+2024-01-23 20:35:03,102 INFO SMB dialect negotiation successful (ExtendedSecurity:False)
+2024-01-23 20:35:03,119 INFO Performing NTLMv1 authentication (without extended security) with challenge "b'd0055ea103dac5e1'" and hashed password of "b'36790bf475ba90b710f02ce4877485b3ecc43c2e8b0e2328'"
+2024-01-23 20:35:03,126 INFO Performing NTLMv1 authentication (without extended security) with challenge "b'8c4734b291e1a3d7'" and hashed password of "b'5740844a4c6ceada551df504194cad02aa5b8afe8f5eb500'"
+2024-01-23 20:35:03,126 INFO Now switching over to SMB2 protocol communication
+2024-01-23 20:35:03,127 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'2aa51ab6984a0bea'"
+2024-01-23 20:35:03,128 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'aaf7a6d44d8c343e'"
+2024-01-23 20:35:03,128 INFO SMB dialect negotiation successful (ExtendedSecurity:False)
+2024-01-23 20:35:03,128 INFO Now switching over to SMB2 protocol communication
+2024-01-23 20:35:03,128 INFO SMB dialect negotiation successful (ExtendedSecurity:False)
+2024-01-23 20:35:03,136 INFO Performing NTLMv1 authentication (without extended security) with challenge "b'a2a7918be248233c'" and hashed password of "b'1739b6259788b305b43b11da58e4f1d6aee437b46e939836'"
+2024-01-23 20:35:03,147 INFO Performing NTLMv1 authentication (without extended security) with challenge "b'2f656448f861f74d'" and hashed password of "b'ac955935ccf7d53f2691871ffed79d26a934c7389dd243da'"
+2024-01-23 20:35:03,164 INFO Performing NTLMv1 authentication (without extended security) with challenge "b'7488e06f20b29c54'" and hashed password of "b'6805d84777e1101e57e112b74e732ba45d9718ec9d7a5dcf'"
+2024-01-23 20:35:03,166 INFO Performing NTLMv1 authentication (without extended security) with challenge "b'10d3effe58d0eef1'" and hashed password of "b'be16ded2d0abc645516a9d9c9653a134cbc222f70b2b8b98'"
+2024-01-23 20:35:03,166 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-23 20:35:03,166 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-23 20:35:03,178 INFO Performing NTLMv1 authentication (without extended security) with challenge "b'2379dfa2ce01c54b'" and hashed password of "b'9bcfeeca40d5ddaef3fbb93ccd72b0c290786e911e3d0c0e'"
+2024-01-23 20:35:03,179 INFO SMB2 dialect negotiation successful
+2024-01-23 20:35:03,179 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'2aa51ab6984a0bea'"
+2024-01-23 20:35:03,179 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'aaf7a6d44d8c343e'"
+2024-01-23 20:35:03,191 INFO Performing NTLMv1 authentication (without extended security) with challenge "b'1cce609202ec482a'" and hashed password of "b'747717ce611869a9569aefd54450ac7c23cbc88315b33639'"
+2024-01-23 20:35:03,191 INFO SMB2 dialect negotiation successful
+2024-01-23 20:35:03,199 INFO Performing NTLMv1 authentication (without extended security) with challenge "b'35c034dafa7c0417'" and hashed password of "b'568950c8d1e87c5c964b7fd066e6b7c47e561d0857ed651c'"
+2024-01-23 20:35:03,200 ERROR First step error, please check 178.60.223.103
+Traceback (most recent call last):
+  File "F:\Code\Python\python_apps\SMBConnector\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Code\Python\python_apps\SMBConnector\.venv\Lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "F:\Code\Python\python_apps\SMBConnector\.venv\Lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-23 20:35:03,204 INFO Server supports SMB signing
+2024-01-23 20:35:03,207 INFO Server supports SMB signing
+2024-01-23 20:35:03,212 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-23 20:35:03,212 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-23 20:35:03,224 INFO Authentication (without extended security) successful!
+2024-01-23 20:35:03,226 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-23 20:35:03,226 ERROR First step error, please check 178.60.222.18
+Traceback (most recent call last):
+  File "F:\Code\Python\python_apps\SMBConnector\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Code\Python\python_apps\SMBConnector\.venv\Lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "F:\Code\Python\python_apps\SMBConnector\.venv\Lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-23 20:35:03,248 INFO Authentication (without extended security) successful!
+2024-01-23 20:35:03,266 INFO Authentication (without extended security) successful!
+2024-01-23 20:35:03,340 INFO Authentication (on SMB2) successful!
+2024-01-23 20:35:03,340 INFO Signing disabled because session is guest/anonymous
+2024-01-23 20:35:03,343 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-23 20:35:03,343 ERROR First step error, please check 178.60.234.10
+Traceback (most recent call last):
+  File "F:\Code\Python\python_apps\SMBConnector\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Code\Python\python_apps\SMBConnector\.venv\Lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "F:\Code\Python\python_apps\SMBConnector\.venv\Lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-23 20:35:03,345 INFO Authentication (without extended security) successful!
+2024-01-23 20:35:03,362 INFO Authentication (without extended security) successful!
+2024-01-23 20:35:03,364 INFO Authentication (without extended security) successful!
+2024-01-23 20:35:03,384 INFO Authentication (without extended security) successful!
+2024-01-23 20:35:03,385 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'5267f8a3db3c39f7'"
+2024-01-23 20:35:03,385 INFO Authentication (without extended security) successful!
+2024-01-23 20:35:03,386 INFO Authentication (without extended security) successful!
+2024-01-23 20:35:03,386 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'5267f8a3db3c39f7'"
+2024-01-23 20:35:03,389 INFO Authentication (without extended security) successful!
+2024-01-23 20:35:03,389 INFO Server supports SMB signing
+2024-01-23 20:35:03,390 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-23 20:35:03,392 INFO Authentication (without extended security) successful!
+2024-01-23 20:35:03,402 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'90d0b6ec2da70b74'"
+2024-01-23 20:35:03,402 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'90d0b6ec2da70b74'"
+2024-01-23 20:35:03,405 INFO Authentication (without extended security) successful!
+2024-01-23 20:35:03,405 INFO Server supports SMB signing
+2024-01-23 20:35:03,405 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-23 20:35:03,412 INFO Authentication (without extended security) successful!
+2024-01-23 20:35:03,558 INFO Authentication (on SMB2) successful!
+2024-01-23 20:35:03,558 INFO Signing disabled because session is guest/anonymous
+2024-01-23 20:35:03,610 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-23 20:35:03,610 ERROR First step error, please check 178.61.140.60
+Traceback (most recent call last):
+  File "F:\Code\Python\python_apps\SMBConnector\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "F:\Code\Python\python_apps\SMBConnector\.venv\Lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "F:\Code\Python\python_apps\SMBConnector\.venv\Lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-23 20:35:03,668 INFO Now switching over to SMB2 protocol communication
+2024-01-23 20:35:03,669 INFO SMB2 dialect negotiation successful
+2024-01-23 20:35:04,004 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'7f2bab178a765d7e'"
+2024-01-23 20:35:04,005 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'7f2bab178a765d7e'"
+2024-01-23 20:35:04,008 INFO Server supports SMB signing
+2024-01-23 20:35:04,008 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-23 20:35:04,315 INFO Authentication (on SMB2) successful!
+2024-01-23 20:35:04,315 INFO Signing disabled because session is guest/anonymous
+2024-01-23 20:35:08,004 INFO Disconnecting DirectTcp socket
+2024-01-23 20:35:21,527 INFO Disconnecting DirectTcp socket
+2024-01-23 20:35:22,770 INFO Start scanning with [CHECK SHARES SMB]...
+2024-01-23 20:35:22,771 INFO Authentication with remote machine "178.60.223.103" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-23 20:35:22,771 INFO Authentication with remote machine "178.61.158.143" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-23 20:35:22,772 INFO Authentication with remote machine "178.61.136.91" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-23 20:35:22,772 INFO Authentication with remote machine "178.61.136.174" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-23 20:35:22,772 INFO Authentication with remote machine "178.61.137.245" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-23 20:35:22,773 INFO Authentication with remote machine "78.201.156.137" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-23 20:35:22,773 INFO Authentication with remote machine "178.61.131.44" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-23 20:35:22,774 INFO Authentication with remote machine "178.60.234.10" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-23 20:35:22,774 INFO Authentication with remote machine "178.61.156.62" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-23 20:35:22,775 INFO Authentication with remote machine "178.61.143.77" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-23 20:35:22,775 INFO Authentication with remote machine "178.61.136.195" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-23 20:35:22,775 INFO Authentication with remote machine "178.61.150.248" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-23 20:35:22,776 INFO Authentication with remote machine "178.60.222.18" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-23 20:35:22,776 INFO Authentication with remote machine "178.61.141.215" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-23 20:35:22,777 INFO Authentication with remote machine "178.61.107.214" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-23 20:35:22,777 INFO Authentication with remote machine "178.60.234.173" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-23 20:35:22,777 INFO Authentication with remote machine "178.61.104.181" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-23 20:35:22,778 INFO Authentication with remote machine "178.61.140.60" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-23 20:35:22,778 INFO Authentication with remote machine "178.61.156.235" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-23 20:35:22,778 INFO Authentication with remote machine "78.109.47.110" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-23 20:35:22,984 INFO Now switching over to SMB2 protocol communication
+2024-01-23 20:35:22,984 INFO SMB2 dialect negotiation successful
+2024-01-23 20:35:22,999 INFO Now switching over to SMB2 protocol communication
+2024-01-23 20:35:22,999 INFO SMB2 dialect negotiation successful
+2024-01-23 20:35:23,055 INFO Now switching over to SMB2 protocol communication
+2024-01-23 20:35:23,056 INFO SMB2 dialect negotiation successful
+2024-01-23 20:35:23,074 INFO Now switching over to SMB2 protocol communication
+2024-01-23 20:35:23,075 INFO SMB2 dialect negotiation successful
+2024-01-23 20:35:23,081 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'62df2f60aab2fc65'"
+2024-01-23 20:35:23,081 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'62df2f60aab2fc65'"
+2024-01-23 20:35:23,084 INFO Server supports SMB signing
+2024-01-23 20:35:23,084 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-23 20:35:23,103 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'09f36e56c7f68634'"
+2024-01-23 20:35:23,103 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'09f36e56c7f68634'"
+2024-01-23 20:35:23,106 INFO Server supports SMB signing
+2024-01-23 20:35:23,106 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-23 20:35:23,129 INFO SMB dialect negotiation successful (ExtendedSecurity:False)
+2024-01-23 20:35:23,140 INFO Performing NTLMv1 authentication (without extended security) with challenge "b'69977726a5e69340'" and hashed password of "b'bb36fa287b31afedb25f72d809ff0562e3dc1cf4b4fb1fbe'"
+2024-01-23 20:35:23,141 INFO Now switching over to SMB2 protocol communication
+2024-01-23 20:35:23,141 INFO SMB dialect negotiation successful (ExtendedSecurity:False)
+2024-01-23 20:35:23,141 INFO SMB2 dialect negotiation successful
+2024-01-23 20:35:23,153 INFO Performing NTLMv1 authentication (without extended security) with challenge "b'74b8bb0109d030d4'" and hashed password of "b'8888fbafc56b42a971b73c913d6aa67108accbedaeace57b'"
+2024-01-23 20:35:23,154 INFO SMB dialect negotiation successful (ExtendedSecurity:False)
+2024-01-23 20:35:23,155 INFO SMB dialect negotiation successful (ExtendedSecurity:False)
+2024-01-23 20:35:23,155 INFO SMB dialect negotiation successful (ExtendedSecurity:False)
+2024-01-23 20:35:23,155 INFO SMB dialect negotiation successful (ExtendedSecurity:False)
+2024-01-23 20:35:23,155 INFO SMB dialect negotiation successful (ExtendedSecurity:False)
+2024-01-23 20:35:23,176 INFO Performing NTLMv1 authentication (without extended security) with challenge "b'f9bad6183bc35b04'" and hashed password of "b'4cc76dd144f56de1d8f62d9a82d72498c6fd62444d8a02fc'"
+2024-01-23 20:35:23,176 INFO Performing NTLMv1 authentication (without extended security) with challenge "b'40a403146c5b8ad7'" and hashed password of "b'0129d265e8d3f1fb6f1165bf1429629780577d9b329c5e74'"
+2024-01-23 20:35:23,183 INFO SMB dialect negotiation successful (ExtendedSecurity:False)
+2024-01-23 20:35:23,183 INFO SMB dialect negotiation successful (ExtendedSecurity:False)
+2024-01-23 20:35:23,183 INFO SMB dialect negotiation successful (ExtendedSecurity:False)
+2024-01-23 20:35:23,190 INFO Performing NTLMv1 authentication (without extended security) with challenge "b'0711876fddfd5776'" and hashed password of "b'b17e3bb7f303c4c21e5cc69e5c67d0d029629005695ec3d9'"
+2024-01-23 20:35:23,195 INFO Performing NTLMv1 authentication (without extended security) with challenge "b'94c8b77ea4832c10'" and hashed password of "b'7fb514aaf3c625092c58367c647c2fe69b57a1916e481534'"
+2024-01-23 20:35:23,196 INFO SMB dialect negotiation successful (ExtendedSecurity:False)
+2024-01-23 20:35:23,196 INFO SMB dialect negotiation successful (ExtendedSecurity:False)
+2024-01-23 20:35:23,196 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-23 20:35:23,208 INFO Performing NTLMv1 authentication (without extended security) with challenge "b'4cda310af60fe9a0'" and hashed password of "b'8dac160ff7fc42d26ca27b6b19da71671ab574aad5bb4e22'"
+2024-01-23 20:35:23,209 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'4160c2a42df9ce19'"
+2024-01-23 20:35:23,209 INFO Now switching over to SMB2 protocol communication
+2024-01-23 20:35:23,210 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-23 20:35:23,222 INFO Performing NTLMv1 authentication (without extended security) with challenge "b'd6aa7854f622846b'" and hashed password of "b'85d46bf9f1bf8faa81e7d43204f588d602a9e2b790a30b1a'"
+2024-01-23 20:35:23,233 INFO Performing NTLMv1 authentication (without extended security) with challenge "b'f72c10c196b104b4'" and hashed password of "b'b5d9958e46890adaabd69b0de275528c795f2ebade9b8a6a'"
+2024-01-23 20:35:23,245 INFO Performing NTLMv1 authentication (without extended security) with challenge "b'1e0aaf21fea47e83'" and hashed password of "b'2fd1aeee3e535978f398bd34ead8292ea1fa61cbec172135'"
+2024-01-23 20:35:23,245 INFO SMB dialect negotiation successful (ExtendedSecurity:False)
+2024-01-23 20:35:23,246 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'9ef74c1fd4bd4050'"
+2024-01-23 20:35:23,258 INFO Performing NTLMv1 authentication (without extended security) with challenge "b'064f05bcfb13f353'" and hashed password of "b'26c3243ecf06e78e71099a0ddad5f69fe9f9791eb090b957'"
+2024-01-23 20:35:23,270 INFO Performing NTLMv1 authentication (without extended security) with challenge "b'75361c8fe330b26f'" and hashed password of "b'bbd54ae365c160e1f31754330d31e9fa476c8905ab2683c7'"
+2024-01-23 20:35:23,270 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'4160c2a42df9ce19'"
+2024-01-23 20:35:23,271 INFO SMB2 dialect negotiation successful
+2024-01-23 20:35:23,283 INFO Performing NTLMv1 authentication (without extended security) with challenge "b'861154e2a6dea627'" and hashed password of "b'3f874a5f930785e4acb0d127448191bde2365072d2376aad'"
+2024-01-23 20:35:23,284 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'9ef74c1fd4bd4050'"
+2024-01-23 20:35:23,287 INFO Server supports SMB signing
+2024-01-23 20:35:23,290 INFO Server supports SMB signing
+2024-01-23 20:35:23,291 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-23 20:35:23,291 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-23 20:35:23,317 INFO Authentication (without extended security) successful!
+2024-01-23 20:35:23,323 INFO Authentication (without extended security) successful!
+2024-01-23 20:35:23,344 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'c1704d8241d1d30d'"
+2024-01-23 20:35:23,344 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'c1704d8241d1d30d'"
+2024-01-23 20:35:23,347 INFO Server supports SMB signing
+2024-01-23 20:35:23,347 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-23 20:35:23,393 INFO Authentication (without extended security) successful!
+2024-01-23 20:35:23,393 INFO Authentication (without extended security) successful!
+2024-01-23 20:35:23,422 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-23 20:35:23,422 INFO Authentication (without extended security) successful!
+2024-01-23 20:35:23,431 INFO Authentication (without extended security) successful!
+2024-01-23 20:35:23,432 INFO Authentication (on SMB2) successful!
+2024-01-23 20:35:23,432 INFO Signing disabled because session is guest/anonymous
+2024-01-23 20:35:23,453 INFO Authentication (without extended security) successful!
+2024-01-23 20:35:23,456 INFO Authentication (without extended security) successful!
+2024-01-23 20:35:23,457 INFO Authentication (without extended security) successful!
+2024-01-23 20:35:23,457 INFO Authentication (without extended security) successful!
+2024-01-23 20:35:23,468 INFO Authentication (without extended security) successful!
+2024-01-23 20:35:23,472 INFO Authentication (without extended security) successful!
+2024-01-23 20:35:23,475 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'1ee13a3ecbe82d30'"
+2024-01-23 20:35:23,475 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'1ee13a3ecbe82d30'"
+2024-01-23 20:35:23,478 INFO Server supports SMB signing
+2024-01-23 20:35:23,478 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-23 20:35:23,501 INFO Authentication (without extended security) successful!
+2024-01-23 20:35:23,521 INFO Authentication (on SMB2) successful!
+2024-01-23 20:35:23,521 INFO Signing disabled because session is guest/anonymous
+2024-01-23 20:35:23,672 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-23 20:35:23,865 INFO Now switching over to SMB2 protocol communication
+2024-01-23 20:35:23,865 INFO SMB2 dialect negotiation successful
+2024-01-23 20:35:24,076 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'5c45d8e6cfafd04b'"
+2024-01-23 20:35:24,076 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'5c45d8e6cfafd04b'"
+2024-01-23 20:35:24,079 INFO Server supports SMB signing
+2024-01-23 20:35:24,079 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-23 20:35:25,543 INFO Authentication (on SMB2) successful!
+2024-01-23 20:35:25,543 INFO Signing disabled because session is guest/anonymous
