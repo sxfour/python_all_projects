@@ -1,0 +1,297 @@
+78.156.233.50:{0: 'ADMIN$', 1: 'C$', 2: 'Database', 3: 'DekanatUpdate', 4: 'E$', 5: 'IPC$', 6: 'Update'}
+78.107.248.174:{0: 'IPC$', 1: 'C$', 2: 'ADMIN$', 3: 'print$', 4: 'D$'}
+78.46.199.164:{0: 'print$', 1: 'Scaninput', 2: 'IPC$'}
+78.63.13.31:{0: 'Linas', 1: 'homes', 2: 'print$', 3: 'IPC$'}
+78.107.248.161:{0: 'IPC$', 1: '111', 2: 'Music', 3: 'Media', 4: 'print$'}
+78.47.19.109:{0: 'exchangefiles', 1: 'IPC$'}
+78.130.171.143:{0: 'IPC$', 1: 'Pictures', 2: 'AppZ', 3: 'Movies', 4: 'Torrent', 5: 'info'}
+78.107.250.88:{0: 'print$', 1: 'squidass', 2: 'IPC$'}
+78.130.177.82:{0: 'ADMIN$', 1: 'C$', 2: 'IPC$', 3: 'Users'}
+78.140.221.165:{0: 'ADMIN$', 1: 'C$', 2: 'E', 3: 'E$', 4: 'IPC$'}
+78.129.149.144:{0: 'ADMIN$', 1: 'C$', 2: 'D$', 3: 'E$', 4: 'F$', 5: 'G$', 6: 'H$', 7: 'I$', 8: 'IPC$', 9: 'J$', 10: 'T$', 11: 'W$', 12: 'X$', 13: 'Y$'}
+78.140.240.66:{0: 'print$', 1: 'SberMM', 2: 'IPC$'}
+78.155.212.197:{0: 'print$', 1: 'samba-share', 2: 'IPC$'}
+78.196.170.200:{0: 'Web', 1: 'Public', 2: 'homes', 3: 'Multimedia', 4: 'Download', 5: 'Recordings', 6: 'L1_Astra', 7: 'Imprimante', 8: 'Swap', 9: 'home', 10: 'IPC$'}
+78.141.213.248:{0: 'print$', 1: 'sambashare', 2: 'IPC$'}
+78.130.181.105:{0: 'homes', 1: 'work', 2: 'admin', 3: 'test', 4: 'IPC$'}
+78.46.199.165:{0: 'print$', 1: 'Scaninput', 2: 'IPC$'}
+78.47.21.133:{0: 'print$', 1: 'kanbau', 2: 'IPC$'}
+78.132.138.176:{0: 'ADMIN$', 1: 'BASE', 2: 'C$', 3: 'D$', 4: 'inetpub', 5: 'IPC$', 6: 'JewellerTrade', 7: 'Public', 8: 'Users', 9: 'utd', 10: 'utd2', 11: 'ЗУП'}
+78.46.41.219:{0: 'print$', 1: 'anime', 2: 'movies', 3: 'IPC$'}
+78.46.56.43:{0: 'print$', 1: 'unionfs', 2: 'IPC$'}
+78.130.177.72:{0: 'ADMIN$', 1: 'C$', 2: 'IPC$', 3: 'Users'}
+78.62.181.176:{0: 'print$', 1: 'anime', 2: 'IPC$'}
+78.102.243.252:{0: 'Media', 1: 'Home', 2: 'Small', 3: 'Photo', 4: 'Photo2', 5: 'Photo3', 6: 'Media2', 7: 'IPC$'}
+78.196.39.6:{0: 'Public', 1: 'ECyD', 2: 'Baudouin', 3: 'Raphaon', 4: 'PlanB', 5: 'WDSync', 6: 'lclaloux', 7: 'apinon', 8: 'jerome', 9: 'tducatillon', 10: 'elisabeth', 11: 'gdelacotardiere', 12: 'jeanjdj', 13: 'henri', 14: 'Films', 15: 'OPEZ', 16: 'IPC$'}
+78.47.25.14:{0: 'backup', 1: 'IPC$'}
+78.106.181.68:{0: 'ADMIN$', 1: 'C$', 2: 'F$', 3: 'IPC$', 4: 'print$', 5: 'Samsung Universal Print Driver', 6: 'Users'}
+78.199.15.198:{0: 'IPC$', 1: 'Recycle Bin - Volume_1', 2: 'ETUDIANTS', 3: 'Volume_1', 4: 'lp'}
+78.62.195.101:{0: 'print$', 1: 'sambashare', 2: 'banners', 3: 'stylesheets', 4: 'static', 5: 'IPC$'}
+78.47.36.135:{0: 'print$', 1: 'Scaninput', 2: 'IPC$'}
+78.130.177.2:{0: 'ADMIN$', 1: 'C$', 2: 'IPC$', 3: 'Software', 4: 'Users'}
+78.61.254.235:{0: 'public', 1: 'appdata', 2: 'Test', 3: 'EdvinasM', 4: 'Almanto', 5: 'Almanto2', 6: 'Algimanto', 7: 'Giedre_HR', 8: 'Maria_May', 9: 'ARTShot', 10: 'PetrasS', 11: 'RokasMagic', 12: 'IPC$'}
+78.46.26.214:{0: 'IPC$', 1: 'iso', 2: 'print$'}
+78.63.14.235:{0: 'print$', 1: 'home', 2: 'pagrindinis', 3: 'desktopas', 4: 'IPC$'}
+78.102.16.15:{0: 'print$', 1: 'IPC$'}
+78.138.52.168:{0: 'print$', 1: 'IPC$'}
+78.109.29.253:{0: 'ADMIN$', 1: 'C$', 2: 'D$', 3: 'IPC$', 4: 'M$', 5: 'V$'}
+78.47.41.118:{0: 'print$', 1: 'IPC$'}
+78.138.127.110:{0: 'ADMIN$', 1: 'C$', 2: 'IPC$', 3: 'Users', 4: 'VMs'}
+78.108.109.216:{0: 'Storage_1', 1: 'Vault', 2: 'Storage_2', 3: 'Public', 4: 'IPC$'}
+78.46.249.91:{0: 'print$', 1: 'IPC$'}
+78.46.129.102:{0: 'print$', 1: 'iso', 2: 'IPC$'}
+78.106.218.222:{0: 'X-DISK', 1: 'upload', 2: 'IPC$'}
+78.157.163.79:{0: 'public', 1: 'IPC$'}
+78.47.23.179:{0: 'print$', 1: 'IMAGES', 2: 'IPC$'}
+78.138.135.58:{0: 'ADMIN$', 1: 'C$', 2: 'Canon MF3200 Series', 3: 'D$', 4: 'IPC$', 5: 'print$'}
+78.47.41.113:{0: 'print$', 1: 'IPC$'}
+78.61.191.177:{0: 'IPC$', 1: 'homes', 2: 'Public', 3: 'Phone_photos'}
+78.46.199.161:{0: 'print$', 1: 'Scaninput', 2: 'IPC$'}
+78.194.56.57:{0: '4K', 1: '4k2', 2: 'ADMIN$', 3: 'C$', 4: 'D$', 5: 'Docu', 6: 'downloads', 7: 'E$', 8: 'F$', 9: 'HDTV18', 10: 'IPC$', 11: 'K$', 12: 'L$', 13: 'M$', 14: 'matt', 15: 'Mini-Series', 16: 'Movies', 17: 'Movies 4K', 18: 'mp3', 19: 'N$', 20: 'O$', 21: 'P$', 22: 'Q$', 23: 'R$', 24: 'S$', 25: 'Series', 26: 'Series2', 27: 'Share2', 28: 'Sony', 29: 'T$', 30: 'Users'}
+78.46.181.82:{0: 'ADMIN$', 1: 'C$', 2: 'IPC$', 3: 'Users'}
+78.62.60.128:{0: 'print$', 1: 'sambashare', 2: 'data', 3: 'pixylt', 4: 'hddShare', 5: 'movies', 6: 'IPC$'}
+78.46.79.234:{0: 'shadowcontrol', 1: 'IPC$'}
+78.47.38.219:{0: 'print$', 1: 'sambashare', 2: 'IPC$'}
+78.46.174.226:{0: 'ADMIN$', 1: 'C$', 2: 'E$', 3: 'IPC$', 4: 'R$', 5: 'T$', 6: 'U$', 7: 'Users', 8: 'Обмен пекарни'}
+78.62.190.181:{0: '3TB', 1: '4TB', 2: 'Media', 3: 'IPC$'}
+78.108.216.7:{0: 'print$', 1: 'root', 2: 'IPC$'}
+78.197.236.15:{0: 'print$', 1: 'public', 2: 'IPC$'}
+78.192.203.59:{0: 'AUMONERIE', 1: 'COMMUNICATION', 2: 'homes', 3: 'OIKOS', 4: 'public', 5: 'Téléchargements', 6: 'web', 7: 'IPC$'}
+78.41.8.225:{0: 'Zaloha', 1: 'Filmy', 2: 'Pisnicky', 3: 'IPC$'}
+78.132.137.233:{0: 'ADMIN$', 1: 'C$', 2: 'IPC$', 3: 'Users'}
+78.128.127.13:{0: 'sibyl-channel99', 1: 'IPC$'}
+78.46.199.163:{0: 'print$', 1: 'Scaninput', 2: 'IPC$'}
+78.186.179.156:{0: 'ADMIN$', 1: 'C$', 2: 'D$', 3: 'FIRAMERFINANS', 4: 'IPC$', 5: 'Mikro', 6: 'ORTAK'}
+78.46.114.183:{0: 'public', 1: 'IPC$'}
+78.196.34.50:{0: 'Public', 1: 'SmartWare', 2: 'TimeMachineBackup', 3: 'WDSync', 4: 'IPC$'}
+78.117.238.81:{0: 'partage', 1: 'IPC$'}
+78.63.225.62:{0: 'print$', 1: 'sambashare', 2: 'IPC$'}
+78.187.22.72:{0: 'ADMIN$', 1: 'C$', 2: 'D$', 3: 'IPC$', 4: 'Users'}
+78.138.157.46:{0: 'adel', 1: 'nails', 2: 'Owncloud', 3: 'prod1', 4: 'video_production', 5: 'IPC$'}
+78.199.60.59:{0: 'plateforme', 1: 'homes', 2: 'home', 3: 'IPC$'}
+78.138.127.102:{0: 'ADMIN$', 1: 'Base', 2: 'Buh', 3: 'C$', 4: 'E$', 5: 'IPC$', 6: 'Users'}
+78.186.137.133:{0: 'ADMIN$', 1: 'C$', 2: 'DATA', 3: 'IPC$'}
+78.141.247.72:{0: 'print$', 1: 'slingftp', 2: 'IPC$'}
+78.138.118.6:{0: 'ADMIN$', 1: 'C$', 2: 'inbox', 3: 'IPC$', 4: 'MSSQLSERVER'}
+78.141.208.59:{0: 'C$', 1: 'Printer', 2: 'ADMIN$', 3: 'IPC$'}
+78.142.59.4:{0: 'print$', 1: 'Projects', 2: 'IPC$'}
+78.46.206.19:{0: 'print$', 1: 'lisa', 2: 'IPC$'}
+78.199.203.253:{0: 'print$', 1: 'sambashare', 2: 'Galoushare', 3: 'IPC$'}
+78.192.229.130:{0: 'Multimedia', 1: 'Download', 2: 'Web', 3: 'Public', 4: 'homes', 5: 'save', 6: 'Cherbourg', 7: 'RSYNC', 8: 'home', 9: 'IPC$'}
+78.142.59.6:{0: 'print$', 1: 'Projects', 2: 'IPC$'}
+78.109.121.186:{0: 'ОСИП', 1: 'ресурс', 2: 'IPC$'}
+78.130.177.119:{0: 'ADMIN$', 1: 'C$', 2: 'IPC$', 3: 'Users'}
+78.130.177.110:{0: 'ADMIN$', 1: 'C$', 2: 'IPC$', 3: 'Users'}
+78.141.224.166:{0: 'print$', 1: 'IPC$'}
+78.188.31.234:{0: 'ADMIN$', 1: 'C$', 2: 'ftp', 3: 'IPC$'}
+78.146.20.74:{0: 'MEDIA', 1: 'DATA', 2: 'ApplicationData', 3: 'MediaDB', 4: 'Torrents', 5: 'Lisa', 6: 'Photos', 7: 'IPC$'}
+78.196.240.233:{0: 'homes', 1: 'music', 2: 'photo', 3: 'video', 4: 'IPC$'}
+78.141.71.227:{0: 'Root', 1: 'Harddisk', 2: 'IPC$'}
+78.46.150.176:{0: 'blindtests', 1: 'IPC$'}
+78.63.26.140:{0: 'print$', 1: 'sambashare', 2: 'plexmedia', 3: 'IPC$'}
+78.108.219.16:{0: 'easydcim', 1: 'IPC$'}
+78.140.167.124:{0: 'ADMIN$', 1: 'C$', 2: 'IPC$', 3: 'Users'}
+78.130.147.118:{0: 'ADMIN$', 1: 'C$', 2: 'D$', 3: 'IPC$'}
+78.193.167.84:{0: 'Administratif', 1: 'Backup-PHD', 2: 'Books', 3: 'CIKISI', 4: 'divers', 5: 'films1 - 0-9-A-B', 6: 'films2 - D-E-F-G-H', 7: 'films3 - I-J-K-L-M', 8: 'films4 - N-O-P', 9: 'films4 - N-O-P bis', 10: 'films5 - Q-R-S', 11: 'films6 - T-U-V-W-X-Y-Z', 12: 'homes', 13: 'job', 14: 'MaFreeBox', 15: 'music', 16: 'Naathaal', 17: 'NetBackup', 18: 'photo', 19: 'Plex', 20: 'series', 21: 'software', 22: 'Tanzanie2022', 23: 'video', 24: 'web', 25: '_kiosque', 26: '__Download', 27: '__Software__', 28: 'IPC$'}
+78.189.76.32:{0: 'ADMIN$', 1: 'C$', 2: 'D$', 3: 'IPC$'}
+78.189.55.195:{0: 'ADMIN$', 1: 'C$', 2: 'Canon E410 series', 3: 'Canon E510 series Printer', 4: 'D$', 5: 'Godex EZ320', 6: 'Godex EZ330', 7: 'IPC$', 8: 'print$', 9: 'RONGTA RP80 Printer', 10: 'Users'}
+78.46.190.35:{0: 'print$', 1: 'Scaninput', 2: 'IPC$'}
+78.130.177.61:{0: 'ADMIN$', 1: 'C$', 2: 'IPC$', 3: 'Users'}
+78.109.196.135:{0: 'ADMIN$', 1: 'C$', 2: 'IPC$'}
+78.128.78.167:{0: 'TimeMachineBackup', 1: 'Public', 2: 'SmartWare', 3: 'Datasets', 4: 'Models', 5: 'Other', 6: 'IPC$'}
+78.130.177.59:{0: 'ADMIN$', 1: 'C$', 2: 'IPC$', 3: 'Users'}
+78.113.244.216:{0: 'Home', 1: 'User Homes', 2: 'Public', 3: 'Web', 4: 'Video', 5: 'PhotoGallery', 6: 'Music', 7: 'Plex', 8: 'documents', 9: 'IPC$'}
+78.186.143.126:{0: 'ADMIN$', 1: 'C$', 2: 'D$', 3: 'IPC$', 4: 'Users'}
+78.130.177.12:{0: 'ADMIN$', 1: 'C$', 2: 'IPC$', 3: 'Users'}
+78.195.54.26:{0: 'print$', 1: 'public', 2: 'IPC$'}
+78.157.186.114:{0: 'print$', 1: 'music', 2: 'IPC$'}
+78.187.28.19:{0: 'ADMIN$', 1: 'C$', 2: 'D$', 3: 'E$', 4: 'IPC$'}
+78.194.14.103:{0: 'print$', 1: 'nasamba-test', 2: 'IPC$'}
+78.186.57.127:{0: 'HASAR', 1: 'MUHASEBE', 2: 'AKADEMI', 3: 'IPC$'}
+78.47.19.41:{0: 'ADMIN$', 1: 'C$', 2: 'D$', 3: 'IPC$', 4: 'print$', 5: 'Users'}
+78.131.87.210:{0: 'print$', 1: 'hdd', 2: '180GB_audio1', 3: 'IPC$'}
+78.189.94.74:{0: 'ADMIN$', 1: 'C$', 2: 'IPC$', 3: 'Users'}
+78.189.15.18:{0: 'ADMIN$', 1: 'AVANTASPOS', 2: 'C$', 3: 'IPC$', 4: 'POS'}
+78.188.134.178:{0: 'ADMIN$', 1: 'ariastok', 2: 'C$', 3: 'chia', 4: 'E$', 5: 'HASIRLISERVER$', 6: 'ikortakdosyalar$', 7: 'IPC$', 8: 'modpospaket$', 9: 'Perkotek$'}
+78.187.51.128:{0: 'ADMIN$', 1: 'C$', 2: 'IPC$'}
+78.187.44.139:{0: 'ADMIN$', 1: 'C$', 2: 'D$', 3: 'IPC$', 4: 'print$', 5: 'RICOH SP 330SN'}
+78.187.213.206:{0: 'ADMIN$', 1: 'BILNEXV3', 2: 'C$', 3: 'D$', 4: 'IPC$', 5: 'Users'}
+78.131.11.247:{0: 'print$', 1: 'gamebackup', 2: 'IPC$'}
+78.130.177.39:{0: 'ADMIN$', 1: 'C$', 2: 'IPC$', 3: 'Users'}
+78.108.108.114:{0: 'Public', 1: 'SmartWare', 2: 'TimeMachineBackup', 3: 'NAS', 4: 'data', 5: 'IPC$'}
+78.109.29.84:{0: 'print$', 1: 'share', 2: 'IPC$'}
+78.151.18.148:{0: 'print$', 1: 'pi_temp', 2: 'IPC$'}
+78.150.58.112:{0: 'Public', 1: 'Backups', 2: 'colin', 3: 'Plex', 4: '2OneDrv', 5: 'IPC$'}
+78.157.0.13:{0: 'ADMIN$', 1: 'C$', 2: 'IPC$', 3: 'Zonel'}
+78.130.213.173:{0: 'print$', 1: 'BackupHDD', 2: 'BackupSSD', 3: 'Home', 4: 'Server', 5: 'IPC$', 6: 'nobody'}
+78.102.107.254:{0: 'Root', 1: 'Harddisk', 2: 'IPC$'}
+78.188.86.172:{0: 'ORTAK İHRACAT', 1: 'Güncel Fabrika Stok Listesi', 2: 'Yedek', 3: 'IPC$'}
+78.128.127.174:{0: 'print$', 1: 'DATA', 2: 'IPC$'}
+78.46.19.98:{0: 'kpmg_share', 1: 'IPC$'}
+78.187.34.32:{0: 'ADMIN$', 1: 'C$', 2: 'D$', 3: 'Documents', 4: 'EPSON L6570 Series', 5: 'IPC$', 6: 'print$'}
+78.130.162.69:{0: 'print$', 1: 'Share', 2: 'RPI', 3: 'IPC$'}
+78.186.241.196:{0: 'ADMIN$', 1: 'C$', 2: 'D$', 3: 'IPC$', 4: 'KolayBEP', 5: 'print$', 6: 'Users'}
+78.186.184.23:{0: 'Multimedia', 1: 'Download', 2: 'Recordings', 3: 'Web', 4: 'Usb', 5: 'Public', 6: 'Network Recycle Bin 1', 7: 'homes', 8: 'Ortak', 9: 'home', 10: 'IPC$', 11: 'USBDisk1'}
+78.189.193.168:{0: 'admin', 1: 'music', 2: 'photo', 3: 'video', 4: 'Photo Backup', 5: 'IPC$'}
+78.131.78.104:{0: 'print$', 1: 'sambashare', 2: 'IPC$'}
+78.130.177.33:{0: 'ADMIN$', 1: 'C$', 2: 'IPC$', 3: 'Users'}
+78.46.195.222:{0: 'projects', 1: 'IPC$'}
+78.177.240.197:{0: 'volume(sda1)', 1: 'IPC$'}
+78.142.59.5:{0: 'print$', 1: 'Projects', 2: 'IPC$'}
+78.128.48.19:{0: 'Evgeni', 1: 'LuboIvanov', 2: 'All', 3: 'IPC$'}
+78.186.146.212:{0: 'ADMIN$', 1: 'C$', 2: 'D$', 3: 'IPC$', 4: 'Ortak'}
+78.157.164.91:{0: 'BOX', 1: 'IPC$'}
+78.133.155.193:{0: 'print$', 1: 'lokalizator', 2: 'IPC$'}
+78.183.149.197:{0: 'admin', 1: 'music', 2: 'photo', 3: 'video', 4: 'PALTA', 5: 'NIHAN', 6: 'IPC$'}
+78.130.177.21:{0: 'ADMIN$', 1: 'C$', 2: 'IPC$', 3: 'Users'}
+78.196.237.80:{0: 'share', 1: 'internal', 2: 'IPC$'}
+78.187.240.69:{0: 'Multimedia', 1: 'Download', 2: 'Web', 3: 'Public', 4: 'homes', 5: 'UZEL', 6: 'GH', 7: 'EU', 8: 'MD', 9: 'ND', 10: 'BA', 11: 'CS', 12: 'GU', 13: 'home', 14: 'IPC$'}
+78.46.233.34:{0: 'print$', 1: 'foto_videos', 2: 'nextcloud', 3: 'IPC$', 4: 'HP_LaserJet_400_M401dn_61B620_'}
+78.188.153.171:{0: 'ADMIN$', 1: 'C$', 2: 'D$', 3: 'IPC$'}
+78.130.48.241:{0: 'Multimedia', 1: 'Download', 2: 'Web', 3: 'Public', 4: 'homes', 5: 'camrec', 6: 'home', 7: 'IPC$'}
+78.131.75.107:{0: 'admin', 1: 'music', 2: 'photo', 3: 'video', 4: 'Könyvtár', 5: 'muvhaz', 6: 'bkk', 7: 'Igazgatoarhivum', 8: 'Médiacsoprt', 9: 'tourinform', 10: 'bkk-1', 11: 'BihariMuzeum', 12: 'IPC$'}
+78.157.169.133:{0: 'Backups', 1: 'Documents', 2: 'Movies', 3: 'Music', 4: 'SharedMedia', 5: 'Pictures', 6: 'QuikTransfer', 7: 'Jan', 8: 'Michal', 9: 'Katka', 10: 'Bara', 11: 'MediaDB', 12: 'IPC$'}
+78.188.103.237:{0: 'ADMIN$', 1: 'Brother MFC-L2715DW series', 2: 'C$', 3: 'IPC$', 4: 'LINK', 5: 'ortak dosyalar', 6: 'print$', 7: 'Users'}
+78.189.214.151:{0: 'ADMIN$', 1: 'C$', 2: 'IPC$', 3: 'print$', 4: 'rop2000'}
+78.130.177.91:{0: 'ADMIN$', 1: 'C$', 2: 'IPC$', 3: 'Users'}
+78.47.41.114:{0: 'print$', 1: 'IPC$'}
+78.189.105.214:{0: 'ADMIN$', 1: 'C$', 2: 'E$', 3: 'IPC$', 4: 'MAPITECH', 5: 'OKI ML1120', 6: 'P-2540i MFP KX', 7: 'print$', 8: 'Users'}
+78.130.147.66:{0: 'print$', 1: 'share', 2: 'Neda', 3: 'Споделена', 4: 'backUP', 5: 'IPC$'}
+78.108.38.126:{0: 'ADMIN$', 1: 'C$', 2: 'IPC$', 3: 'print$'}
+78.181.210.19:{0: 'volume(sda1)', 1: 'IPC$'}
+78.188.42.76:{0: 'ADMIN$', 1: 'C$', 2: 'D$', 3: 'IPC$', 4: 'print$', 5: 'Samsung SCX-3400 Series'}
+78.186.205.132:{0: 'ADMIN$', 1: 'C$', 2: 'D$', 3: 'Database', 4: 'Dosya Arşiv$', 5: 'Evrak Arşivi', 6: 'GARANTİ$', 7: 'IPC$', 8: 'MARTI', 9: 'MARTIICRADOSYA', 10: 'Users', 11: 'Uyap Evraklar', 12: 'YKB$'}
+78.138.190.14:{0: 'backup', 1: 'project', 2: 'plan_econom', 3: 'han', 4: 'aport', 5: 'mega', 6: 'pan', 7: 'prime', 8: 'tal', 9: 'temp', 10: 'uprav', 11: 'lawer', 12: 'finman', 13: 'barmanager', 14: 'headbuyer', 15: 'zanger', 16: 'work', 17: 'sochi', 18: 'UKAPORT', 19: 'UKPRIME', 20: 'UKKHANSHA', 21: 'UKSOCHI', 22: 'UKPANORAMA', 23: 'UKPRAGA', 24: 'jurmala', 25: 'IPC$'}
+78.46.19.183:{0: 'ADMIN$', 1: 'C$', 2: 'D$', 3: 'E$', 4: 'F$', 5: 'G$', 6: 'IPC$', 7: 'print$', 8: 'WebClients'}
+78.198.244.172:{0: 'print$', 1: 'Partages', 2: 'FreeboxTV', 3: 'BackUp', 4: 'Motion', 5: 'IPC$'}
+78.141.107.78:{0: 'print$', 1: 'Zaloha', 2: 'Zaloha_2', 3: 'IPC$'}
+78.38.93.7:{0: 'ADMIN$', 1: 'C$', 2: 'D$', 3: 'E$', 4: 'F$', 5: 'G$', 6: 'IPC$'}
+78.184.10.244:{0: 'IPC$', 1: 'tarama', 2: 'Senalp', 3: 'Muhasebe', 4: 'video', 5: 'photo', 6: 'music', 7: 'admin'}
+78.188.44.223:{0: 'ADMIN$', 1: 'C$', 2: 'D$', 3: 'F$', 4: 'FATURA', 5: 'G$', 6: 'IPC$', 7: 'print$', 8: 'Samsung_Printer$', 9: 'SISTEM OTEL', 10: 'tarama', 11: 'Users'}
+78.182.254.94:{0: 'volume(sda1)', 1: 'IPC$'}
+78.189.29.106:{0: 'Sonitel_v2', 1: 'Veritabani_Yedek', 2: 'Sonitel', 3: 'ServerBackup', 4: 'IPC$'}
+78.188.214.125:{0: 'IPC$', 1: 'ORTAK'}
+78.189.92.140:{0: 'ADMIN$', 1: 'C$', 2: 'Canon G3010 series', 3: 'D$', 4: 'HP LaserJet Professional P1102w', 5: 'IPC$', 6: 'print$', 7: 'Users'}
+78.109.46.61:{0: '406nas', 1: 'scan', 2: 'exchange', 3: 'IncomingControl', 4: 'exchange2', 5: 'Warehouse exchange', 6: 'EAMP', 7: 'OSD', 8: 'PCD', 9: 'IPC$'}
+78.45.51.191:{0: 'print$', 1: 'nas', 2: 'kinema', 3: 'jukebox', 4: 'IPC$'}
+78.188.230.158:{0: 'ADMIN$', 1: 'C$', 2: 'D$', 3: 'IPC$', 4: 'serverImg', 5: 'Users'}
+78.142.59.7:{0: 'print$', 1: 'Projects', 2: 'IPC$'}
+78.38.30.95:{0: 'ADMIN$', 1: 'C$', 2: 'D$', 3: 'E$', 4: 'IPC$'}
+78.187.220.220:{0: 'ADMIN$', 1: 'C', 2: 'C$', 3: 'D$', 4: 'Data', 5: 'Eczanem', 6: 'IPC$', 7: 'print$', 8: 'Users'}
+78.187.15.195:{0: 'Multimedia', 1: 'Download', 2: 'Web', 3: 'Public', 4: 'homes', 5: 'home', 6: 'IPC$', 7: 'ortak', 8: 'zirvenet', 9: 'özel'}
+78.46.199.166:{0: 'print$', 1: 'Scaninput', 2: 'IPC$'}
+78.189.224.203:{0: 'ADMIN$', 1: 'C$', 2: 'Canon MF210 Series', 3: 'D$', 4: 'IPC$', 5: 'print$', 6: 'Users'}
+78.188.168.219:{0: 'A4', 1: 'ADMIN$', 2: 'C$', 3: 'D$', 4: 'IPC$', 5: 'print$', 6: 'TARAYICI', 7: 'Users'}
+78.187.51.140:{0: 'ADMIN$', 1: 'C$', 2: 'D$', 3: 'IPC$', 4: 'Users'}
+78.188.236.74:{0: 'ADMIN$', 1: 'C', 2: 'C$', 3: 'fasterpos', 4: 'IPC$', 5: 'POS-80C', 6: 'print$', 7: 'setup', 8: 'Users'}
+78.187.132.254:{0: 'ADMIN$', 1: 'C$', 2: 'IPC$', 3: 'myashop', 4: 'upload'}
+78.157.0.17:{0: 'Multimedia', 1: 'Download', 2: 'Recordings', 3: 'Web', 4: 'Public', 5: 'homes', 6: 'home', 7: 'IPC$'}
+78.131.55.109:{0: 'Volume_1', 1: 'IPC$', 2: 'lp'}
+78.189.155.40:{0: 'print$', 1: 'backup', 2: 'IPC$'}
+78.197.18.205:{0: 'Download', 1: 'Films', 2: 'homes', 3: 'music', 4: 'Musique', 5: 'photo', 6: 'Photos Smartphone', 7: 'video', 8: 'web', 9: 'IPC$'}
+78.38.71.4:{0: 'ADMIN$', 1: 'C$', 2: 'E$', 3: 'IPC$', 4: 'Users'}
+78.186.185.31:{0: 'ADAYAZILIM', 1: 'ADMIN$', 2: 'C$', 3: 'D$', 4: 'E$', 5: 'F$', 6: 'H$', 7: 'IPC$', 8: 'Users'}
+78.130.177.68:{0: 'ADMIN$', 1: 'C$', 2: 'IPC$', 3: 'Users'}
+78.188.35.104:{0: 'IPC$', 1: 'print$'}
+78.199.5.231:{0: 'Web', 1: 'Public', 2: 'homes', 3: 'MORARD', 4: 'QVRProDB', 5: 'QVRProRecording', 6: 'QVRProAutoSnap', 7: 'QVRProAppData', 8: 'QVRProSpace_DataVol1', 9: 'Multimedia', 10: 'Download', 11: 'TOTO', 12: 'Container', 13: 'home', 14: 'IPC$'}
+78.122.112.11:{0: 'ADMIN$', 1: 'C$', 2: 'D$', 3: 'E$', 4: 'F$', 5: 'G$', 6: 'H$', 7: 'I$', 8: 'IPC$', 9: 'K$', 10: 'L$', 11: 'M$', 12: 'N$', 13: 'P$', 14: 'Partage', 15: 'Users'}
+78.189.171.159:{0: 'ADMIN$', 1: 'C$', 2: 'F$', 3: 'IPC$', 4: 'Mikro', 5: 'print$'}
+78.186.48.160:{0: 'ADMIN$', 1: 'C$', 2: 'D$', 3: 'E', 4: 'IPC$', 5: 'print$'}
+78.186.148.159:{0: 'ADMIN$', 1: 'C$', 2: 'D$', 3: 'IPC$', 4: 'Setup'}
+78.47.21.182:{0: 'ADMIN$', 1: 'C$', 2: 'IPC$', 3: 'print$'}
+78.194.116.127:{0: 'print$', 1: 'savedir.srvsave.com', 2: 'savesrvc.srvsave.com', 3: 'IPC$', 4: 'Canon_LBP1238_1238P_Pr'}
+78.196.192.156:{0: 'TimeMachineBackup', 1: 'Public', 2: 'SmartWare', 3: 'sama', 4: 'marie', 5: 'IPC$'}
+78.188.114.34:{0: 'ADMIN$', 1: 'C$', 2: 'D$', 3: 'IPC$', 4: 'SISTEM OTEL', 5: 'Users'}
+78.194.129.62:{0: 'IPC$', 1: 'home', 2: 'Hestiam2', 3: 'Hestiam', 4: 'homes', 5: 'Public', 6: 'Web', 7: 'Download', 8: 'Multimedia'}
+78.187.235.80:{0: 'KARPAR', 1: 'muhasebe', 2: 'IPC$'}
+78.157.171.3:{0: 'print$', 1: 'sambashare', 2: 'IPC$'}
+78.189.190.43:{0: 'ADMIN$', 1: 'C$', 2: 'D$', 3: 'IPC$', 4: 'print$', 5: 'Users'}
+78.128.214.44:{0: 'ADMIN$', 1: 'C$', 2: 'IPC$', 3: 'Printer'}
+78.45.22.165:{0: 'IPC$', 1: 'Phonoteca', 2: 'Sync', 3: 'lib', 4: 'backup', 5: 'Audiobooks', 6: 'Tutorials', 7: 'Download', 8: 'Books', 9: 'Photo Backup', 10: 'exe', 11: 'nfs', 12: 'video', 13: 'photo', 14: 'music', 15: 'admin'}
+78.134.36.236:{0: 'Multimedia', 1: 'Download', 2: 'Recordings', 3: 'Web', 4: 'Public', 5: 'homes', 6: 'telecamera', 7: 'M2I', 8: 'BACKUP_SERVER3', 9: 'Amministrazione', 10: 'IPC$'}
+78.187.78.6:{0: 'admin', 1: 'music', 2: 'photo', 3: 'video', 4: 'drone', 5: 'Metin KIYAK', 6: 'Elman Ortak', 7: 'Ahmet GÖKÇE', 8: 'Doğan Mevlüt CANSIZ_2', 9: 'Erhan DURMAZ_2', 10: 'Sümer SELÇIK_2', 11: 'IPC$'}
+78.46.229.206:{0: 'cms-int', 1: 'client', 2: 'IPC$'}
+78.130.175.69:{0: 'airport-bg.com', 1: 'cnwsolution.com', 2: 'voteg-energy.com', 3: 'IPC$'}
+78.186.13.90:{0: 'ADMIN$', 1: 'C$', 2: 'D$', 3: 'IPC$', 4: 'NEBIMV3', 5: 'V3 KURULUS', 6: 'YEDEK'}
+78.193.0.193:{0: 'CIE_XouY', 1: 'Documents', 2: 'LSDM', 3: 'Music', 4: 'Pictures', 5: 'Proarti', 6: 'ProartiGestion', 7: 'technique', 8: 'Videos', 9: 'IPC$'}
+78.197.254.202:{0: 'Usb', 1: 'Network Recycle Bin 1', 2: 'Network Recycle Bin 2', 3: 'Multimedia', 4: 'Download', 5: 'Recordings', 6: 'Web', 7: 'Public', 8: 'homes', 9: 'Film HD D2', 10: 'Film HD-D3', 11: 'Film HD D1', 12: 'Film HD D6', 13: 'home', 14: 'IPC$'}
+78.136.89.96:{0: 'print$', 1: 'estaciones', 2: 'IPC$'}
+78.187.177.209:{0: 'ADMIN$', 1: 'AKINSOFT', 2: 'Brother MFC-L2715DW series', 3: 'C$', 4: 'D$', 5: 'IPC$', 6: 'print$'}
+78.156.33.217:{0: 'Data', 1: 'Dokumenty', 2: 'Filmy', 3: 'Fotky', 4: 'homes', 5: 'music', 6: 'Muzika', 7: 'Pohadky', 8: 'surveillance', 9: 'IPC$'}
+78.187.194.106:{0: 'ADMIN$', 1: 'C$', 2: 'IPC$', 3: 'Users'}
+78.189.90.2:{0: 'ADMIN$', 1: 'C$', 2: 'D$', 3: 'IPC$', 4: 'pos', 5: 'print$'}
+78.133.179.109:{0: 'print$', 1: 'lokalizator', 2: 'IPC$'}
+78.189.30.18:{0: 'ADMIN$', 1: 'C$', 2: 'D$', 3: 'IPC$', 4: 'tarama', 5: 'Users'}
+78.196.251.7:{0: 'Archives', 1: 'Cabinet', 2: 'Dossiers Actifs', 3: 'DOSSIERS AG', 4: 'FG PERSO', 5: 'homes', 6: 'Logiciels', 7: 'Scan', 8: 'web', 9: 'IPC$'}
+78.189.173.172:{0: 'ADMIN$', 1: 'C$', 2: 'D$', 3: 'DATA', 4: 'IPC$'}
+78.187.142.26:{0: 'ADMIN$', 1: 'AKINSOFT', 2: 'C$', 3: 'E$', 4: 'IPC$'}
+78.198.219.71:{0: 'print$', 1: 'IPC$', 2: 'Samsung-M2070'}
+78.199.28.72:{0: 'print$', 1: 'public', 2: 'IPC$'}
+78.142.211.92:{0: 'ADMIN$', 1: 'C$', 2: 'IPC$', 3: 'Users', 4: 'zirvenet'}
+78.130.177.53:{0: 'ADMIN$', 1: 'C$', 2: 'IPC$', 3: 'Users'}
+78.186.47.187:{0: 'ADMIN$', 1: 'C$', 2: 'D$', 3: 'IPC$', 4: 'ROOT'}
+78.189.60.168:{0: 'ADMIN$', 1: 'AKINSOFT_CLIENT', 2: 'C$', 3: 'IPC$', 4: 'Users'}
+78.180.169.75:{0: 'admin', 1: 'music', 2: 'photo', 3: 'video', 4: 'Yuksel', 5: 'Ortak', 6: 'Photo Backup', 7: 'Belgelerim', 8: 'Sunucu', 9: 'Eda', 10: 'IPC$'}
+78.142.139.93:{0: 'ADMIN$', 1: 'C$', 2: 'D$', 3: 'IPC$', 4: 'Temp'}
+78.188.165.52:{0: 'ADMIN$', 1: 'C$', 2: 'D$', 3: 'IPC$'}
+78.108.108.66:{0: 'homes', 1: 'print$', 2: 'IPC$', 3: 'HP_OfficeJet_Pro_6960_1ABA2B_', 4: 'HP_OfficeJet_Pro_6960_1ABA2B_@HPACE2D31ABA2B.local'}
+78.189.180.120:{0: 'ADISYON', 1: 'ADMIN$', 2: 'BAR', 3: 'BAR1', 4: 'C$', 5: 'EPSON2', 6: 'IPC$', 7: 'MEZE', 8: 'MUTFAK', 9: 'print$', 10: 'PRINTERS', 11: 'SAHIL', 12: 'Users', 13: 'WINCOM', 14: 'WINSELL'}
+78.186.224.114:{0: 'ADMIN$', 1: 'C$', 2: 'D$', 3: 'IPC$'}
+78.134.217.52:{0: 'ADMIN$', 1: 'C$', 2: 'E$', 3: 'IPC$', 4: 'Micronic', 5: 'Skener', 6: 'Tramak', 7: 'Users'}
+78.187.140.54:{0: 'ADMIN$', 1: 'AGE', 2: 'C$', 3: 'HP LaserJet 1020', 4: 'IPC$', 5: 'print$', 6: 'Users'}
+78.188.168.170:{0: 'ADMIN$', 1: 'C$', 2: 'IPC$', 3: 'KUNEFE', 4: 'print$', 5: 'Sentez'}
+78.186.161.147:{0: 'Multimedia', 1: 'Download', 2: 'Web', 3: 'Public', 4: 'Grimax_Murat_Guclu', 5: 'Grimax_Programlar', 6: 'Grimax_Yedekler', 7: 'Grimax_Muzikler', 8: 'Web_Backup', 9: 'IPC$'}
+78.189.185.18:{0: 'print$', 1: 'IPC$', 2: 'Epson-Stylus-Photo-P50'}
+78.186.126.47:{0: 'ADMIN$', 1: 'C$', 2: 'D$', 3: 'IPC$', 4: 'Users'}
+78.193.250.173:{0: 'homes', 1: 'music', 2: 'photo', 3: 'video', 4: 'Vidéos PERSO', 5: 'IPC$'}
+78.39.233.104:{0: 'ADMIN$', 1: 'C$', 2: 'D$', 3: 'E$', 4: 'IPC$', 5: 'Qanoon Temp'}
+78.152.148.150:{0: 'A TRIER', 1: 'Dossiers', 2: 'Films', 3: 'homes', 4: 'mairie', 5: 'music', 6: 'Musiques', 7: 'photo', 8: 'Photos', 9: 'photo_1', 10: 'surveillance', 11: 'surveillance_1_1', 12: 'tftp', 13: 'video', 14: 'Videos', 15: 'web', 16: 'IPC$'}
+78.130.177.86:{0: 'ADMIN$', 1: 'C$', 2: 'IPC$', 3: 'Users'}
+78.187.179.54:{0: 'ADMIN$', 1: 'C$', 2: 'D$', 3: 'IPC$'}
+78.154.66.99:{0: 'Multimedia', 1: 'Download', 2: 'Web', 3: 'Public', 4: 'homes', 5: 'Filmy i Seriale', 6: 'home', 7: 'IPC$'}
+78.194.0.121:{0: 'homes', 1: 'ZZZ_PERSO', 2: '247_FILMS', 3: 'ART_VIDEO_PLAY', 4: 'BC_A_VISER', 5: 'EXEMPLES', 6: 'Z_ARCHIVES', 7: 'ZZ_TECHNICIENS', 8: 'ZZZ_LOGO', 9: 'ZZZZ_COMMUN', 10: 'ZZZZZ_MEDIAS', 11: '30 JOURS MAX', 12: 'ECOLE DE L AIR', 13: 'TI NEA_FILMS', 14: 'TI NEA_SOCIETE', 15: 'PRODUCTION_BB', 16: 'INFINITE', 17: 'LA BETE', 18: 'home', 19: 'IPC$'}
+78.130.171.246:{0: 'IPC$', 1: 'Volume_1', 2: 'EMass-Storage-Device1', 3: 'Films', 4: 'admin', 5: 'music', 6: 'photo', 7: 'video', 8: 'public'}
+78.189.153.147:{0: 'ADMIN$', 1: 'C$', 2: 'D$', 3: 'IPC$', 4: 'Users'}
+78.109.47.110:{0: '1c', 1: 'ОБМЕН_Павлюченко', 2: 'ОБМЕН_Ярославцева', 3: 'ОБМЕН_Булгакова', 4: 'ОБМЕН_Ивахненко', 5: 'IPC$'}
+78.131.51.170:{0: 'print$', 1: 'boot-disk', 2: 'server', 3: 'marton', 4: 'andrea', 5: 'laszlo', 6: 'zalan', 7: 'IPC$'}
+78.189.128.46:{0: 'Multimedia', 1: 'Download', 2: 'Web', 3: 'Public', 4: 'server_backup', 5: 'homes', 6: 'home', 7: 'IPC$'}
+78.186.158.195:{0: 'ADMIN$', 1: 'C$', 2: 'IPC$', 3: 'Users', 4: 'zirvenet'}
+78.38.90.201:{0: 'ADMIN$', 1: 'C$', 2: 'D$', 3: 'IPC$', 4: 'YEGANEH'}
+78.134.242.217:{0: 'TLD_REPOSITORY', 1: 'CLIENT', 2: 'IPC$'}
+78.187.93.186:{0: 'admin', 1: 'Admin 1', 2: 'IPC$'}
+78.186.197.40:{0: 'ADMIN$', 1: 'C$', 2: 'D$', 3: 'IPC$', 4: 'ORTAK_KLASOR', 5: 'S$'}
+78.131.51.173:{0: 'print$', 1: 'Shared', 2: 'IPC$'}
+78.189.41.100:{0: 'Web', 1: 'Public', 2: 'yedek', 3: 'tarama', 4: 'Genel', 5: 'home', 6: 'IPC$'}
+78.130.177.115:{0: 'ADMIN$', 1: 'C$', 2: 'IPC$', 3: 'Users'}
+78.189.116.213:{0: 'ADMIN$', 1: 'C$', 2: 'D$', 3: 'IPC$', 4: 'TRENDWORLD GENEL', 5: 'Users'}
+78.187.143.184:{0: 'Multimedia', 1: 'Download', 2: 'Recordings', 3: 'Web', 4: 'Public', 5: 'homes', 6: 'ortak', 7: 'Ortak_Trabzon', 8: 'digitalarsiv', 9: 'home', 10: 'IPC$'}
+78.188.30.73:{0: 'Public', 1: 'Ortak', 2: 'Multimedia', 3: 'IPC$'}
+78.157.231.223:{0: 'ADMIN$', 1: 'C$', 2: 'D$', 3: 'IPC$', 4: 'Users'}
+78.135.108.103:{0: 'Multimedia', 1: 'Download', 2: 'Web', 3: 'Public', 4: 'sayginvtsippy', 5: 'tfon', 6: 'tfonsippy', 7: 'sayginvt2', 8: 'IPC$'}
+78.189.16.51:{0: 'ADMIN$', 1: 'C$', 2: 'CSM_ORTAK', 3: 'D$', 4: 'IPC$', 5: 'Users', 6: 'YANU'}
+78.187.140.181:{0: 'ADMIN$', 1: 'C$', 2: 'CAYDATA', 3: 'CAYDATAS', 4: 'D$', 5: 'dene', 6: 'IPC$', 7: 'RAMAZAN', 8: 'Users'}
+78.187.78.235:{0: 'ADMIN$', 1: 'C$', 2: 'D$', 3: 'IPC$', 4: 'POSGENEL', 5: 'ROOT'}
+78.132.28.193:{0: 'print$', 1: 'rtsbackup', 2: 'ADMBackup', 3: 'share', 4: 'openHAB2-userdata', 5: 'openHAB2-config', 6: 'openHAB2-logs', 7: 'IPC$', 8: 'Kyocera_FS-C5100'}
+78.188.19.59:{0: 'Canon MF230 Series UFRII LT', 1: 'IPC$', 2: 'print$'}
+78.180.151.111:{0: 'ADMIN$', 1: 'Brother MFC-T800W Printer', 2: 'C$', 3: 'D$', 4: 'IPC$', 5: 'print$', 6: 'SISTEM OTEL'}
+78.187.47.238:{0: 'ADMIN$', 1: 'C$', 2: 'F$', 3: 'IPC$', 4: 'Ortak'}
+78.188.12.66:{0: 'admin', 1: 'SEDEN HOCAOGLU', 2: 'NURI KORAY KURUN', 3: 'HURIYE SOYTURK', 4: 'CAVIT MEMISOGLU', 5: 'Arşiv', 6: 'Ortak', 7: 'IPC$'}
+78.189.177.97:{0: 'ADMIN$', 1: 'C', 2: 'C$', 3: 'IPC$'}
+78.188.26.177:{0: 'ADMIN$', 1: 'arsiv', 2: 'C$', 3: 'D$', 4: 'IPC$'}
+78.186.143.42:{0: 'ADMIN$', 1: 'C$', 2: 'ERP12', 3: 'IPC$'}
+78.186.181.229:{0: 'homes', 1: 'print$', 2: 'IPC$'}
+78.189.53.170:{0: 'ADMIN$', 1: 'C$', 2: 'D$', 3: 'IPC$', 4: 'print$'}
+78.46.72.232:{0: 'ADMIN$', 1: 'C$', 2: 'IPC$'}
+78.186.119.43:{0: 'ADMIN$', 1: 'C$', 2: 'IPC$', 3: 'SERVIS'}
+78.38.89.79:{0: 'ADMIN$', 1: 'C$', 2: 'Canon LBP6030', 3: 'IPC$', 4: 'J$', 5: 'K$', 6: 'print$'}
+78.186.33.180:{0: 'ADMIN$', 1: 'Application', 2: 'C$', 3: 'D$', 4: 'HP LaserJet Pro MFP M127-M128 PCLmS', 5: 'IPC$', 6: 'ORTAK', 7: 'ORTAK1', 8: 'print$', 9: 'Users'}
+78.63.182.164:{0: 'AUDIO KNYGOS U', 1: 'chat', 2: 'Diskas01', 3: 'DVBLink', 4: 'homes', 5: 'MinimServer', 6: 'music', 7: 'Muzika Relax U', 8: 'MUZIKA U', 9: 'NetBackup', 10: 'photo', 11: 'Sharas U', 12: 'surveillance', 13: 'TEXTAS', 14: 'TVMosaic', 15: 'video', 16: 'Video U', 17: 'IPC$'}
+78.101.186.172:{0: 'IPC$', 1: 'zergond', 2: 'gg', 3: '1'}
+78.186.135.253:{0: 'homes', 1: 'music', 2: 'photo', 3: 'surveillance', 4: 'TIME MACHINE', 5: 'video', 6: 'IPC$'}
+78.150.186.34:{0: 'Public', 1: 'TimeMachineBackup', 2: 'Software', 3: 'Iomega', 4: 'Guzik', 5: 'Marcin', 6: 'LTD', 7: 'STUDIO', 8: 'BAKERY', 9: 'CAFE', 10: 'IPC$'}
+78.38.18.82:{0: 'ADMIN$', 1: 'C$', 2: 'D$', 3: 'E$', 4: 'F$', 5: 'HP LaserJet Professional P1102', 6: 'IPC$', 7: 'Office', 8: 'print$', 9: 'Users'}
+78.198.186.217:{0: 'archive', 1: 'homes', 2: 'music', 3: 'photo', 4: 'pub', 5: 'surveillance', 6: 'usbshare1', 7: 'video', 8: 'web', 9: 'xcloud', 10: 'IPC$', 11: 'HPENVY4500'}
+78.187.204.233:{0: 'ADMIN$', 1: 'C$', 2: 'IPC$', 3: 'ORTAK PAYLAŞIM', 4: 'setup', 5: 'Setup2', 6: 'Users'}
+78.100.198.183:{0: 'SmartWare', 1: 'Public', 2: 'TimeMachineBackup', 3: 'Microsoft', 4: 'Drivers', 5: 'ISO', 6: 'Movies', 7: 'Photos', 8: 'Softwares', 9: 'Hubert', 10: 'IPC$'}
+78.37.233.108:{0: 'ADMIN$', 1: 'BK', 2: 'C', 3: 'C$', 4: 'D$', 5: 'IPC$', 6: 'rustds', 7: 'SERVD', 8: 'Users'}
+78.61.77.21:{0: 'Blyke.4GB', 1: 'IPC$'}

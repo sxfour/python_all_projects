@@ -1,0 +1,2094 @@
+2024-01-26 14:13:20,318 INFO Start scanning with [DUMPS DIRS ON SHARES SMB]...
+2024-01-26 14:13:20,320 INFO Authentication with remote machine "178.69.113.103" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,321 INFO Authentication with remote machine "178.33.3.172" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,322 INFO Authentication with remote machine "178.70.136.193" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,322 INFO Authentication with remote machine "178.33.139.90" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,323 INFO Authentication with remote machine "178.33.146.170" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,323 INFO Authentication with remote machine "178.32.48.131" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,324 INFO Authentication with remote machine "178.68.68.100" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,325 INFO Authentication with remote machine "178.38.94.189" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,325 INFO Authentication with remote machine "178.68.107.98" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,326 INFO Authentication with remote machine "178.66.4.180" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,326 INFO Authentication with remote machine "178.66.63.172" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,328 INFO Authentication with remote machine "178.66.213.17" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,329 INFO Authentication with remote machine "178.32.143.121" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,330 INFO Authentication with remote machine "178.33.192.64" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,330 INFO Authentication with remote machine "178.70.80.95" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,330 INFO Authentication with remote machine "178.67.44.142" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,331 INFO Authentication with remote machine "178.66.179.12" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,331 INFO Authentication with remote machine "178.69.244.188" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,332 INFO Authentication with remote machine "178.69.23.247" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,332 INFO Authentication with remote machine "178.70.70.53" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,332 INFO Authentication with remote machine "178.67.27.50" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,333 INFO Authentication with remote machine "178.70.74.204" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,333 INFO Authentication with remote machine "178.67.31.70" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,334 INFO Authentication with remote machine "178.66.198.89" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,334 INFO Authentication with remote machine "178.69.21.152" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,334 INFO Authentication with remote machine "178.69.1.2" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,335 INFO Authentication with remote machine "178.70.80.95" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,335 INFO Authentication with remote machine "178.70.70.84" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,335 INFO Authentication with remote machine "178.65.59.57" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,336 INFO Authentication with remote machine "178.38.94.189" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,336 INFO Authentication with remote machine "178.34.154.130" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,337 INFO Authentication with remote machine "178.34.185.59" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,337 INFO Authentication with remote machine "178.34.154.139" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,337 INFO Authentication with remote machine "178.37.204.141" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,338 INFO Authentication with remote machine "178.37.198.138" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,338 INFO Authentication with remote machine "178.39.153.235" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,339 INFO Authentication with remote machine "178.38.148.176" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,339 INFO Authentication with remote machine "78.30.19.38" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,340 INFO Authentication with remote machine "178.38.138.235" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,340 INFO Authentication with remote machine "178.38.203.154" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,340 INFO Authentication with remote machine "178.39.62.249" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,341 INFO Authentication with remote machine "178.35.151.73" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,342 INFO Authentication with remote machine "178.65.67.210" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,342 INFO Authentication with remote machine "178.34.180.83" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,342 INFO Authentication with remote machine "78.36.3.234" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,343 INFO Authentication with remote machine "178.35.152.9" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,343 INFO Authentication with remote machine "78.31.65.38" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,343 INFO Authentication with remote machine "178.34.159.81" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,344 INFO Authentication with remote machine "178.39.104.126" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,344 INFO Authentication with remote machine "78.24.218.132" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,344 INFO Authentication with remote machine "78.30.62.149" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,346 INFO Authentication with remote machine "178.69.224.199" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,346 INFO Authentication with remote machine "178.38.165.103" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,346 INFO Authentication with remote machine "178.38.82.106" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,347 INFO Authentication with remote machine "78.29.228.61" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,347 INFO Authentication with remote machine "178.38.85.9" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,347 INFO Authentication with remote machine "178.39.66.93" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,348 INFO Authentication with remote machine "78.24.216.212" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,348 INFO Authentication with remote machine "178.39.68.123" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,348 INFO Authentication with remote machine "78.24.236.88" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,349 INFO Authentication with remote machine "78.8.243.124" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,349 INFO Authentication with remote machine "178.70.250.101" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,349 INFO Authentication with remote machine "178.38.33.29" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,350 INFO Authentication with remote machine "78.27.236.213" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,350 INFO Authentication with remote machine "78.28.211.49" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,350 INFO Authentication with remote machine "78.33.141.69" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,351 INFO Authentication with remote machine "78.32.253.111" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,351 INFO Authentication with remote machine "78.11.102.18" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,351 INFO Authentication with remote machine "78.10.162.252" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,352 INFO Authentication with remote machine "178.67.248.26" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,352 INFO Authentication with remote machine "78.23.108.49" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,352 INFO Authentication with remote machine "78.27.228.82" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,353 INFO Authentication with remote machine "78.25.129.20" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,353 INFO Authentication with remote machine "78.25.181.73" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,353 INFO Authentication with remote machine "178.69.126.80" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,354 INFO Authentication with remote machine "78.21.226.130" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,354 INFO Authentication with remote machine "178.66.224.201" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,354 INFO Authentication with remote machine "178.69.128.214" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,355 INFO Authentication with remote machine "178.66.69.39" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,355 INFO Authentication with remote machine "78.29.231.165" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,355 INFO Authentication with remote machine "78.31.90.28" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,356 INFO Authentication with remote machine "178.67.173.113" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,356 INFO Authentication with remote machine "78.31.107.132" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,356 INFO Authentication with remote machine "178.33.21.161" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,357 INFO Authentication with remote machine "78.10.162.187" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,357 INFO Authentication with remote machine "178.65.168.246" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,358 INFO Authentication with remote machine "178.33.120.67" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,358 INFO Authentication with remote machine "78.25.89.108" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,358 INFO Authentication with remote machine "78.22.77.113" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,359 INFO Authentication with remote machine "78.8.31.173" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,359 INFO Authentication with remote machine "178.37.171.107" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,359 INFO Authentication with remote machine "78.25.114.37" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,359 INFO Authentication with remote machine "78.11.151.240" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,360 INFO Authentication with remote machine "78.31.66.114" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,360 INFO Authentication with remote machine "178.38.147.69" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,360 INFO Authentication with remote machine "178.39.134.11" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,361 INFO Authentication with remote machine "78.20.102.55" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,361 INFO Authentication with remote machine "178.39.56.97" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,361 INFO Authentication with remote machine "178.39.100.168" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,362 INFO Authentication with remote machine "78.30.37.135" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,362 INFO Authentication with remote machine "78.25.92.53" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,362 INFO Authentication with remote machine "78.25.121.24" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,363 INFO Authentication with remote machine "78.31.21.4" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,363 INFO Authentication with remote machine "178.36.48.230" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,363 INFO Authentication with remote machine "178.38.8.87" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,364 INFO Authentication with remote machine "78.30.43.49" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,364 INFO Authentication with remote machine "78.27.80.1" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,364 INFO Authentication with remote machine "78.23.150.19" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,364 INFO Authentication with remote machine "78.31.66.43" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,365 INFO Authentication with remote machine "78.28.127.195" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,365 INFO Authentication with remote machine "78.21.155.217" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,366 INFO Authentication with remote machine "78.31.16.98" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,366 INFO Authentication with remote machine "78.32.151.239" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,366 INFO Authentication with remote machine "78.21.223.191" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,366 INFO Authentication with remote machine "78.8.46.33" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,367 INFO Authentication with remote machine "78.20.99.179" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,367 INFO Authentication with remote machine "78.11.116.10" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,367 INFO Authentication with remote machine "78.30.29.218" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,368 INFO Authentication with remote machine "78.31.67.200" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,368 INFO Authentication with remote machine "78.21.171.198" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,368 INFO Authentication with remote machine "78.31.65.37" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,369 INFO Authentication with remote machine "78.10.141.60" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,369 INFO Authentication with remote machine "78.27.108.4" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,369 INFO Authentication with remote machine "78.31.254.219" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,370 INFO Authentication with remote machine "178.66.182.101" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,370 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,370 INFO Authentication with remote machine "78.31.152.221" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,370 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,371 INFO Authentication with remote machine "78.29.187.20" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,372 INFO Authentication with remote machine "78.27.73.190" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,372 INFO Authentication with remote machine "78.32.152.63" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,373 INFO Authentication with remote machine "178.32.140.132" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,373 INFO Authentication with remote machine "78.8.41.244" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,373 INFO Authentication with remote machine "78.31.71.242" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,374 INFO Authentication with remote machine "78.30.35.185" for user "User" will be using NTLM v2 authentication (with extended security)
+2024-01-26 14:13:20,413 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,413 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,464 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'0d959e40f0487647'"
+2024-01-26 14:13:20,464 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'0d959e40f0487647'"
+2024-01-26 14:13:20,467 INFO Server supports SMB signing
+2024-01-26 14:13:20,467 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:20,478 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,478 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,482 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,482 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,503 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,503 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,512 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,512 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,522 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,522 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,566 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,567 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,594 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,594 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,626 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,627 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,631 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'17d4016f2c5832ad'"
+2024-01-26 14:13:20,631 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'17d4016f2c5832ad'"
+2024-01-26 14:13:20,632 INFO Server supports SMB signing
+2024-01-26 14:13:20,632 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:20,633 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,633 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,645 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,645 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,676 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'9cf9dfa8af58bfae'"
+2024-01-26 14:13:20,676 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'9cf9dfa8af58bfae'"
+2024-01-26 14:13:20,677 INFO Server supports SMB signing
+2024-01-26 14:13:20,677 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:20,678 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,678 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,684 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,685 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,702 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,702 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,708 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,708 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,711 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,711 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,714 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,714 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,720 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,721 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,734 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,734 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,737 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,737 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,743 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,744 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,753 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'cf766926d582610f'"
+2024-01-26 14:13:20,753 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'cf766926d582610f'"
+2024-01-26 14:13:20,755 INFO Server supports SMB signing
+2024-01-26 14:13:20,755 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:20,762 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,762 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,763 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,763 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,764 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'cd94f213ba8b258d'"
+2024-01-26 14:13:20,764 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'cd94f213ba8b258d'"
+2024-01-26 14:13:20,765 INFO Server supports SMB signing
+2024-01-26 14:13:20,765 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:20,766 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'325d4b9df731df8e'"
+2024-01-26 14:13:20,766 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'325d4b9df731df8e'"
+2024-01-26 14:13:20,767 INFO Server supports SMB signing
+2024-01-26 14:13:20,767 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:20,768 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,768 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,771 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,771 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,792 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,793 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,795 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,795 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,802 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,802 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,810 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,811 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,821 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'2a1b224686ef92d8'"
+2024-01-26 14:13:20,821 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'2a1b224686ef92d8'"
+2024-01-26 14:13:20,822 INFO Server supports SMB signing
+2024-01-26 14:13:20,822 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:20,825 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,825 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,828 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,828 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,836 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,836 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,841 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,841 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,844 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:20,844 ERROR First step error, please check 178.68.107.98
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:20,845 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'b34ba27dfc0410ef'"
+2024-01-26 14:13:20,847 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,847 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,850 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,853 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,859 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,861 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,870 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'b34ba27dfc0410ef'"
+2024-01-26 14:13:20,870 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,870 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,870 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,870 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,871 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,871 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,872 INFO Server supports SMB signing
+2024-01-26 14:13:20,874 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:20,879 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,879 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,882 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,882 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,885 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,885 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,894 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,895 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,900 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,900 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,903 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'f97919f72f65f581'"
+2024-01-26 14:13:20,903 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'f97919f72f65f581'"
+2024-01-26 14:13:20,903 INFO Server supports SMB signing
+2024-01-26 14:13:20,904 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:20,904 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'078b19293ced5242'"
+2024-01-26 14:13:20,904 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'078b19293ced5242'"
+2024-01-26 14:13:20,905 INFO Server supports SMB signing
+2024-01-26 14:13:20,905 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:20,907 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,907 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,909 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,910 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,915 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,916 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,918 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'89bd615a442a9dba'"
+2024-01-26 14:13:20,918 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'89bd615a442a9dba'"
+2024-01-26 14:13:20,919 INFO Server supports SMB signing
+2024-01-26 14:13:20,919 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:20,921 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,922 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,928 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,928 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,929 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,929 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,940 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,940 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,946 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,946 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:20,946 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,946 ERROR First step error, please check 178.66.63.172
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:20,947 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,947 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,948 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,948 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,958 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,958 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,958 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,959 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,959 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,960 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'e0c71a731834f0c3'"
+2024-01-26 14:13:20,960 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,960 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'e0c71a731834f0c3'"
+2024-01-26 14:13:20,961 INFO Server requires all SMB messages to be signed
+2024-01-26 14:13:20,961 INFO SMB signing activated. All SMB messages will be signed.
+2024-01-26 14:13:20,973 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'0690bb84d11fb068'"
+2024-01-26 14:13:20,973 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'0690bb84d11fb068'"
+2024-01-26 14:13:20,974 INFO Server supports SMB signing
+2024-01-26 14:13:20,974 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:20,976 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,976 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,989 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,989 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,989 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'c90e4e40a54118df'"
+2024-01-26 14:13:20,990 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'c90e4e40a54118df'"
+2024-01-26 14:13:20,990 INFO Server supports SMB signing
+2024-01-26 14:13:20,991 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:20,992 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,992 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:20,995 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:20,996 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,002 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'6a6faed01711a2d4'"
+2024-01-26 14:13:21,002 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'6a6faed01711a2d4'"
+2024-01-26 14:13:21,003 INFO Server supports SMB signing
+2024-01-26 14:13:21,003 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,004 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,004 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,005 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,005 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,010 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,010 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,010 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,010 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,012 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'7b5f75223d548581'"
+2024-01-26 14:13:21,012 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'7b5f75223d548581'"
+2024-01-26 14:13:21,012 INFO Server supports SMB signing
+2024-01-26 14:13:21,012 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,013 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,013 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,016 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,016 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,022 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,023 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,025 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,026 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,026 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,026 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,026 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,026 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,043 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,043 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,045 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'91415ada96e08010'"
+2024-01-26 14:13:21,045 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'91415ada96e08010'"
+2024-01-26 14:13:21,045 INFO Server supports SMB signing
+2024-01-26 14:13:21,046 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,047 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'ea3715725feaff65'"
+2024-01-26 14:13:21,047 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'ea3715725feaff65'"
+2024-01-26 14:13:21,048 INFO Server supports SMB signing
+2024-01-26 14:13:21,048 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,049 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,049 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,050 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,050 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,052 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,052 ERROR First step error, please check 178.70.80.95
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,052 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,053 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,053 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,053 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,056 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,056 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,057 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,057 ERROR First step error, please check 178.70.80.95
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,060 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,060 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,062 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'78b6536506bc347b'"
+2024-01-26 14:13:21,063 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'78b6536506bc347b'"
+2024-01-26 14:13:21,064 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'dd34ba928cb7798f'"
+2024-01-26 14:13:21,064 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,064 INFO Server supports SMB signing
+2024-01-26 14:13:21,064 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'dd34ba928cb7798f'"
+2024-01-26 14:13:21,064 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,064 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,064 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,065 INFO Server supports SMB signing
+2024-01-26 14:13:21,065 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,066 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,069 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,069 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,072 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,072 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,075 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,075 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,076 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,076 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,079 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,079 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,089 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'93ec1ca7c8756190'"
+2024-01-26 14:13:21,090 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'93ec1ca7c8756190'"
+2024-01-26 14:13:21,090 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,090 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,090 INFO Server supports SMB signing
+2024-01-26 14:13:21,091 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,091 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,091 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,091 ERROR First step error, please check 178.66.213.17
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,091 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,092 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,093 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,096 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,096 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'31d55e79b0967648'"
+2024-01-26 14:13:21,096 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,096 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'31d55e79b0967648'"
+2024-01-26 14:13:21,098 INFO Server supports SMB signing
+2024-01-26 14:13:21,098 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,100 INFO Authentication (on SMB2) successful!
+2024-01-26 14:13:21,100 INFO Signing disabled because session is guest/anonymous
+2024-01-26 14:13:21,107 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,107 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,113 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,113 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,114 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,114 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,114 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,114 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,115 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,115 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,116 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'a7571adaa1f73695'"
+2024-01-26 14:13:21,116 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,116 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'a7571adaa1f73695'"
+2024-01-26 14:13:21,116 ERROR First step error, please check 178.68.68.100
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,117 INFO Server supports SMB signing
+2024-01-26 14:13:21,117 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'81f57084f598810f'"
+2024-01-26 14:13:21,118 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,118 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'81f57084f598810f'"
+2024-01-26 14:13:21,119 INFO Server supports SMB signing
+2024-01-26 14:13:21,119 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,123 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,123 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,123 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,123 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,124 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'986b68e2fb3b08b8'"
+2024-01-26 14:13:21,125 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,125 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'6880ec2520133156'"
+2024-01-26 14:13:21,125 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'986b68e2fb3b08b8'"
+2024-01-26 14:13:21,125 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,125 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'6880ec2520133156'"
+2024-01-26 14:13:21,126 INFO Server supports SMB signing
+2024-01-26 14:13:21,127 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,127 INFO Server supports SMB signing
+2024-01-26 14:13:21,127 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,132 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,132 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,133 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,133 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,133 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,133 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,135 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,135 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,138 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,139 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,140 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,140 ERROR First step error, please check 178.70.74.204
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,145 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'f88db2964e1213af'"
+2024-01-26 14:13:21,145 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'f88db2964e1213af'"
+2024-01-26 14:13:21,146 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'b11fdc02d4a8e4b6'"
+2024-01-26 14:13:21,146 INFO Server supports SMB signing
+2024-01-26 14:13:21,146 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'b11fdc02d4a8e4b6'"
+2024-01-26 14:13:21,146 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,146 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,147 ERROR First step error, please check 178.66.4.180
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,147 INFO Server supports SMB signing
+2024-01-26 14:13:21,148 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,148 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,149 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,149 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,149 ERROR First step error, please check 178.67.44.142
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,151 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'3f7b11e36cb99d8d'"
+2024-01-26 14:13:21,151 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'3f7b11e36cb99d8d'"
+2024-01-26 14:13:21,151 INFO Server supports SMB signing
+2024-01-26 14:13:21,152 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,152 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,152 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,153 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'7f0ab43d385d7296'"
+2024-01-26 14:13:21,153 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'7f0ab43d385d7296'"
+2024-01-26 14:13:21,154 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'031728b8511da3c8'"
+2024-01-26 14:13:21,154 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'031728b8511da3c8'"
+2024-01-26 14:13:21,155 INFO Server supports SMB signing
+2024-01-26 14:13:21,155 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,155 INFO Server supports SMB signing
+2024-01-26 14:13:21,155 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,155 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,155 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,158 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,158 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,158 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,159 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,161 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,161 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,163 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'76899a689dd3c367'"
+2024-01-26 14:13:21,163 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'76899a689dd3c367'"
+2024-01-26 14:13:21,164 INFO Server supports SMB signing
+2024-01-26 14:13:21,164 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,164 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,164 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,167 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'a7e8ec88aafd5812'"
+2024-01-26 14:13:21,167 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'a7e8ec88aafd5812'"
+2024-01-26 14:13:21,167 INFO Server supports SMB signing
+2024-01-26 14:13:21,167 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,168 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,168 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,171 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,171 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,172 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,172 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'4f0c99c8db94cc32'"
+2024-01-26 14:13:21,172 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,173 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,173 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'4f0c99c8db94cc32'"
+2024-01-26 14:13:21,173 ERROR First step error, please check 178.66.198.89
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,174 INFO Server supports SMB signing
+2024-01-26 14:13:21,174 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,178 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'dfa9ca896b2d871b'"
+2024-01-26 14:13:21,179 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,179 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,179 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'dfa9ca896b2d871b'"
+2024-01-26 14:13:21,179 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,179 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,180 INFO Server supports SMB signing
+2024-01-26 14:13:21,180 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,181 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,181 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,182 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'007429f3025584c4'"
+2024-01-26 14:13:21,182 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'007429f3025584c4'"
+2024-01-26 14:13:21,183 INFO Server supports SMB signing
+2024-01-26 14:13:21,183 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,184 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'47fba3c2c6495178'"
+2024-01-26 14:13:21,184 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'47fba3c2c6495178'"
+2024-01-26 14:13:21,185 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,185 INFO Server supports SMB signing
+2024-01-26 14:13:21,185 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,185 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,187 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,188 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,189 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'acafd820dfd79c8a'"
+2024-01-26 14:13:21,189 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'920ad8c6267eae06'"
+2024-01-26 14:13:21,190 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'acafd820dfd79c8a'"
+2024-01-26 14:13:21,190 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'ea8f7051dccb6b8a'"
+2024-01-26 14:13:21,190 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'920ad8c6267eae06'"
+2024-01-26 14:13:21,191 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'ea8f7051dccb6b8a'"
+2024-01-26 14:13:21,191 INFO Server supports SMB signing
+2024-01-26 14:13:21,192 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,192 INFO Server supports SMB signing
+2024-01-26 14:13:21,192 INFO Server requires all SMB messages to be signed
+2024-01-26 14:13:21,192 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,192 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,192 INFO SMB signing activated. All SMB messages will be signed.
+2024-01-26 14:13:21,192 ERROR First step error, please check 178.69.244.188
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,194 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,194 ERROR First step error, please check 178.70.250.101
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,194 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,195 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,199 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'51aba2dbd7ba6ce6'"
+2024-01-26 14:13:21,199 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'51aba2dbd7ba6ce6'"
+2024-01-26 14:13:21,200 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,200 INFO Server supports SMB signing
+2024-01-26 14:13:21,200 ERROR First step error, please check 178.69.1.2
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,200 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,201 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'7a660fec8cf6cdd2'"
+2024-01-26 14:13:21,201 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'7a660fec8cf6cdd2'"
+2024-01-26 14:13:21,202 INFO Server supports SMB signing
+2024-01-26 14:13:21,202 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,202 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,202 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,202 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,202 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,203 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'61ddb2ffe0d3c75f'"
+2024-01-26 14:13:21,204 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'd4c9e44bc819e2e2'"
+2024-01-26 14:13:21,204 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'61ddb2ffe0d3c75f'"
+2024-01-26 14:13:21,204 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'd4c9e44bc819e2e2'"
+2024-01-26 14:13:21,205 INFO Server supports SMB signing
+2024-01-26 14:13:21,205 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,205 INFO Server supports SMB signing
+2024-01-26 14:13:21,205 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,206 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,206 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,207 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,207 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,207 ERROR First step error, please check 178.67.248.26
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,207 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,207 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,208 ERROR First step error, please check 178.69.23.247
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,209 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'0beff09c1c73e441'"
+2024-01-26 14:13:21,209 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'0beff09c1c73e441'"
+2024-01-26 14:13:21,210 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,210 INFO Server supports SMB signing
+2024-01-26 14:13:21,210 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'80a18e20645141ea'"
+2024-01-26 14:13:21,210 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,210 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,210 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'80a18e20645141ea'"
+2024-01-26 14:13:21,211 INFO Server supports SMB signing
+2024-01-26 14:13:21,211 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,213 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,213 ERROR First step error, please check 78.36.3.234
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,215 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'fde132a98aa45288'"
+2024-01-26 14:13:21,215 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'fde132a98aa45288'"
+2024-01-26 14:13:21,216 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'409bc75098762107'"
+2024-01-26 14:13:21,216 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'409bc75098762107'"
+2024-01-26 14:13:21,216 INFO Server supports SMB signing
+2024-01-26 14:13:21,216 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,216 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,216 INFO Server supports SMB signing
+2024-01-26 14:13:21,217 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,217 ERROR First step error, please check 78.24.218.132
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,217 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,217 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,218 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,218 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'50676fefeff128e8'"
+2024-01-26 14:13:21,219 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,219 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,219 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'50676fefeff128e8'"
+2024-01-26 14:13:21,219 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,220 INFO Server supports SMB signing
+2024-01-26 14:13:21,220 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,221 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,221 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,222 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'b2a26a2058bc4f92'"
+2024-01-26 14:13:21,222 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'cc729e59d1e45870'"
+2024-01-26 14:13:21,222 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'b2a26a2058bc4f92'"
+2024-01-26 14:13:21,223 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'7b61fa17ad0be59f'"
+2024-01-26 14:13:21,223 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'cc729e59d1e45870'"
+2024-01-26 14:13:21,223 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'21384fd13d0c4eb4'"
+2024-01-26 14:13:21,224 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'7b61fa17ad0be59f'"
+2024-01-26 14:13:21,224 INFO Server supports SMB signing
+2024-01-26 14:13:21,224 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'21384fd13d0c4eb4'"
+2024-01-26 14:13:21,224 INFO Server supports SMB signing
+2024-01-26 14:13:21,225 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,225 INFO Server supports SMB signing
+2024-01-26 14:13:21,225 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,225 INFO Server supports SMB signing
+2024-01-26 14:13:21,225 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,225 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,226 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'684d6e0293ff4dfa'"
+2024-01-26 14:13:21,226 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'684d6e0293ff4dfa'"
+2024-01-26 14:13:21,227 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'56023bbeeb0eb489'"
+2024-01-26 14:13:21,227 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'61e7b9f3fd489bb5'"
+2024-01-26 14:13:21,227 INFO Server supports SMB signing
+2024-01-26 14:13:21,227 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,228 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'56023bbeeb0eb489'"
+2024-01-26 14:13:21,228 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'f7ec8d49abd03fc1'"
+2024-01-26 14:13:21,228 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'5f7521c16dd10336'"
+2024-01-26 14:13:21,228 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'61e7b9f3fd489bb5'"
+2024-01-26 14:13:21,228 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,228 ERROR First step error, please check 178.69.113.103
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,229 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'f7ec8d49abd03fc1'"
+2024-01-26 14:13:21,229 INFO Server supports SMB signing
+2024-01-26 14:13:21,229 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'5f7521c16dd10336'"
+2024-01-26 14:13:21,230 INFO Server supports SMB signing
+2024-01-26 14:13:21,230 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'454e7c731e11686b'"
+2024-01-26 14:13:21,231 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,231 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,231 INFO Server supports SMB signing
+2024-01-26 14:13:21,232 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,232 INFO Server supports SMB signing
+2024-01-26 14:13:21,232 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'454e7c731e11686b'"
+2024-01-26 14:13:21,232 ERROR First step error, please check 178.66.182.101
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,232 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,232 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,233 INFO Server supports SMB signing
+2024-01-26 14:13:21,233 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,235 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'a1685b36e59d9c09'"
+2024-01-26 14:13:21,235 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'a1685b36e59d9c09'"
+2024-01-26 14:13:21,236 INFO Authentication (on SMB2) successful!
+2024-01-26 14:13:21,236 INFO Server supports SMB signing
+2024-01-26 14:13:21,236 INFO Signing disabled because session is guest/anonymous
+2024-01-26 14:13:21,236 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,238 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,238 ERROR First step error, please check 178.67.27.50
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,239 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'5fc4df8f92862c82'"
+2024-01-26 14:13:21,239 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'5fc4df8f92862c82'"
+2024-01-26 14:13:21,240 INFO Server supports SMB signing
+2024-01-26 14:13:21,240 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,243 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'79438710ee5961dd'"
+2024-01-26 14:13:21,243 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'79438710ee5961dd'"
+2024-01-26 14:13:21,244 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,244 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'544140193c1fd245'"
+2024-01-26 14:13:21,245 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,245 INFO Server requires all SMB messages to be signed
+2024-01-26 14:13:21,245 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'544140193c1fd245'"
+2024-01-26 14:13:21,245 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'715808667717db27'"
+2024-01-26 14:13:21,246 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'183d36f02f4ad29a'"
+2024-01-26 14:13:21,246 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'22fc899720dd96b0'"
+2024-01-26 14:13:21,247 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'70ce6f5be56d60a3'"
+2024-01-26 14:13:21,247 INFO SMB signing activated. All SMB messages will be signed.
+2024-01-26 14:13:21,247 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,247 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'9925a6b86465151a'"
+2024-01-26 14:13:21,248 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,248 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'715808667717db27'"
+2024-01-26 14:13:21,248 INFO Server supports SMB signing
+2024-01-26 14:13:21,248 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'183d36f02f4ad29a'"
+2024-01-26 14:13:21,248 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'22fc899720dd96b0'"
+2024-01-26 14:13:21,248 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'70ce6f5be56d60a3'"
+2024-01-26 14:13:21,248 ERROR First step error, please check 78.25.114.37
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,249 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'9925a6b86465151a'"
+2024-01-26 14:13:21,249 ERROR First step error, please check 78.25.181.73
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,249 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,249 INFO Server supports SMB signing
+2024-01-26 14:13:21,250 INFO Server requires all SMB messages to be signed
+2024-01-26 14:13:21,250 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'407c374255af5be5'"
+2024-01-26 14:13:21,251 INFO Server supports SMB signing
+2024-01-26 14:13:21,251 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,251 INFO Server requires all SMB messages to be signed
+2024-01-26 14:13:21,251 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,252 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,253 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'20e32210726635c7'"
+2024-01-26 14:13:21,253 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'7a3b724740121958'"
+2024-01-26 14:13:21,253 INFO Server supports SMB signing
+2024-01-26 14:13:21,254 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'd6f2345aef13a25d'"
+2024-01-26 14:13:21,254 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'97413772c4569f7d'"
+2024-01-26 14:13:21,254 INFO Authentication (on SMB2) successful!
+2024-01-26 14:13:21,255 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'7fadfcf42dfd271c'"
+2024-01-26 14:13:21,255 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'5a03f95cbabd9b34'"
+2024-01-26 14:13:21,255 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,255 INFO SMB signing activated. All SMB messages will be signed.
+2024-01-26 14:13:21,256 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'407c374255af5be5'"
+2024-01-26 14:13:21,256 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,256 INFO Authentication (on SMB2) successful!
+2024-01-26 14:13:21,256 ERROR First step error, please check 178.69.21.152
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,256 INFO SMB signing activated. All SMB messages will be signed.
+2024-01-26 14:13:21,256 ERROR First step error, please check 178.65.59.57
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,256 ERROR First step error, please check 178.69.126.80
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,257 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'20e32210726635c7'"
+2024-01-26 14:13:21,257 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'7a3b724740121958'"
+2024-01-26 14:13:21,257 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,257 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'd6f2345aef13a25d'"
+2024-01-26 14:13:21,257 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'97413772c4569f7d'"
+2024-01-26 14:13:21,257 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'aeea8c0142a5840e'"
+2024-01-26 14:13:21,257 INFO Signing disabled because session is guest/anonymous
+2024-01-26 14:13:21,257 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'7fadfcf42dfd271c'"
+2024-01-26 14:13:21,258 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'5a03f95cbabd9b34'"
+2024-01-26 14:13:21,258 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,258 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,258 INFO Server supports SMB signing
+2024-01-26 14:13:21,258 INFO Signing disabled because session is guest/anonymous
+2024-01-26 14:13:21,259 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,261 INFO Server supports SMB signing
+2024-01-26 14:13:21,261 INFO Server supports SMB signing
+2024-01-26 14:13:21,262 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,263 INFO Server supports SMB signing
+2024-01-26 14:13:21,263 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'c61753d4879d51cb'"
+2024-01-26 14:13:21,263 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'aeea8c0142a5840e'"
+2024-01-26 14:13:21,263 INFO Server supports SMB signing
+2024-01-26 14:13:21,264 INFO Server supports SMB signing
+2024-01-26 14:13:21,264 ERROR First step error, please check 178.65.168.246
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,264 INFO Server supports SMB signing
+2024-01-26 14:13:21,264 ERROR First step error, please check 178.67.31.70
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,264 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,265 ERROR First step error, please check 78.31.16.98
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,265 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,265 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,265 ERROR First step error, please check 78.24.216.212
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,265 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,265 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'c61753d4879d51cb'"
+2024-01-26 14:13:21,265 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,266 INFO Server supports SMB signing
+2024-01-26 14:13:21,266 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,266 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,266 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'6d80e5f343297a3a'"
+2024-01-26 14:13:21,267 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'f23be61e2fc10a0c'"
+2024-01-26 14:13:21,267 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,268 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'06f8f61bdecd9acf'"
+2024-01-26 14:13:21,268 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'3f0f2c3bfa719605'"
+2024-01-26 14:13:21,270 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'71be29d355e4c51f'"
+2024-01-26 14:13:21,270 INFO Server supports SMB signing
+2024-01-26 14:13:21,271 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'f4f1fab6d8e3b503'"
+2024-01-26 14:13:21,271 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,271 ERROR First step error, please check 178.69.128.214
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,271 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'6d80e5f343297a3a'"
+2024-01-26 14:13:21,271 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'f23be61e2fc10a0c'"
+2024-01-26 14:13:21,271 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'06f8f61bdecd9acf'"
+2024-01-26 14:13:21,271 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'3f0f2c3bfa719605'"
+2024-01-26 14:13:21,271 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'71be29d355e4c51f'"
+2024-01-26 14:13:21,271 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,272 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'f4f1fab6d8e3b503'"
+2024-01-26 14:13:21,273 INFO Authentication (on SMB2) successful!
+2024-01-26 14:13:21,273 INFO Server supports SMB signing
+2024-01-26 14:13:21,274 INFO Server supports SMB signing
+2024-01-26 14:13:21,274 INFO Server supports SMB signing
+2024-01-26 14:13:21,274 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'980e5228216c0650'"
+2024-01-26 14:13:21,275 INFO Server supports SMB signing
+2024-01-26 14:13:21,279 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,276 INFO Server supports SMB signing
+2024-01-26 14:13:21,276 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,276 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'5d688904a1739603'"
+2024-01-26 14:13:21,277 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'f942a7183ef0d707'"
+2024-01-26 14:13:21,277 INFO Server supports SMB signing
+2024-01-26 14:13:21,277 INFO Signing disabled because session is guest/anonymous
+2024-01-26 14:13:21,278 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,278 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'0738f7902cfbf548'"
+2024-01-26 14:13:21,278 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'7169df806c37a618'"
+2024-01-26 14:13:21,278 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,278 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,279 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'980e5228216c0650'"
+2024-01-26 14:13:21,276 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'f347ef1d77671760'"
+2024-01-26 14:13:21,279 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,279 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,279 ERROR First step error, please check 178.65.67.210
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,279 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:21,279 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'5d688904a1739603'"
+2024-01-26 14:13:21,280 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'e31370a792dc53f5'"
+2024-01-26 14:13:21,280 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,280 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'f942a7183ef0d707'"
+2024-01-26 14:13:21,280 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,280 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'0738f7902cfbf548'"
+2024-01-26 14:13:21,280 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'7169df806c37a618'"
+2024-01-26 14:13:21,281 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'f347ef1d77671760'"
+2024-01-26 14:13:21,281 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,281 INFO Server supports SMB signing
+2024-01-26 14:13:21,281 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,281 ERROR First step error, please check 178.70.70.84
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,281 INFO Authentication (on SMB2) successful!
+2024-01-26 14:13:21,282 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,282 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'7654c3830a5dc0ba'"
+2024-01-26 14:13:21,282 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,282 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:21,283 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'e31370a792dc53f5'"
+2024-01-26 14:13:21,283 INFO Server supports SMB signing
+2024-01-26 14:13:21,283 ERROR First step error, please check 178.35.151.73
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,284 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'7cfa6c0acf1b85dc'"
+2024-01-26 14:13:21,284 INFO Server supports SMB signing
+2024-01-26 14:13:21,285 INFO Server requires all SMB messages to be signed
+2024-01-26 14:13:21,285 INFO Server supports SMB signing
+2024-01-26 14:13:21,286 ERROR First step error, please check 178.35.152.9
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,286 INFO Server supports SMB signing
+2024-01-26 14:13:21,286 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,286 ERROR First step error, please check 78.28.211.49
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,286 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'13d23f269057fa22'"
+2024-01-26 14:13:21,287 INFO Signing disabled because session is guest/anonymous
+2024-01-26 14:13:21,287 ERROR First step error, please check 178.70.70.53
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,287 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'7654c3830a5dc0ba'"
+2024-01-26 14:13:21,287 ERROR First step error, please check 178.67.173.113
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,288 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,288 INFO Server supports SMB signing
+2024-01-26 14:13:21,288 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'5ae407c6b960d017'"
+2024-01-26 14:13:21,288 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,289 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,289 INFO Authentication (on SMB2) successful!
+2024-01-26 14:13:21,289 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'7cfa6c0acf1b85dc'"
+2024-01-26 14:13:21,289 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,289 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,289 INFO SMB signing activated. All SMB messages will be signed.
+2024-01-26 14:13:21,289 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,290 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'feb8b2f437938d70'"
+2024-01-26 14:13:21,290 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,291 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,291 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'13d23f269057fa22'"
+2024-01-26 14:13:21,292 INFO Server supports SMB signing
+2024-01-26 14:13:21,293 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,293 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,293 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'5ae407c6b960d017'"
+2024-01-26 14:13:21,293 ERROR First step error, please check 78.31.65.38
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,293 ERROR First step error, please check 78.27.108.4
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,293 INFO Signing disabled because session is guest/anonymous
+2024-01-26 14:13:21,294 INFO Server supports SMB signing
+2024-01-26 14:13:21,294 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,294 ERROR First step error, please check 178.33.146.170
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,295 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'a95f2e968e629cd2'"
+2024-01-26 14:13:21,295 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'feb8b2f437938d70'"
+2024-01-26 14:13:21,295 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,295 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'0a597b3194e8d1f7'"
+2024-01-26 14:13:21,296 ERROR First step error, please check 78.27.236.213
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,296 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,296 INFO Server supports SMB signing
+2024-01-26 14:13:21,296 ERROR First step error, please check 178.32.48.131
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,297 INFO Server supports SMB signing
+2024-01-26 14:13:21,298 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'e9831ebfadd595f4'"
+2024-01-26 14:13:21,299 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'26e387845459379f'"
+2024-01-26 14:13:21,299 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'aee7b3a45f8e7bc9'"
+2024-01-26 14:13:21,300 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'1318cdc65bec4cdb'"
+2024-01-26 14:13:21,300 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'352cadbb98b5a293'"
+2024-01-26 14:13:21,300 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'210c55c3a7176ce7'"
+2024-01-26 14:13:21,301 INFO Authentication (on SMB2) successful!
+2024-01-26 14:13:21,301 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,301 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'ecd6dcbe60f2ce06'"
+2024-01-26 14:13:21,301 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,301 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,308 ERROR First step error, please check 178.38.94.189
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,301 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,302 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'8a21f35ebc723ead'"
+2024-01-26 14:13:21,303 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'a04d2a2bebbd9e55'"
+2024-01-26 14:13:21,303 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'a95f2e968e629cd2'"
+2024-01-26 14:13:21,303 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'a222631d36f5387a'"
+2024-01-26 14:13:21,304 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'6c29b0435a8a4c94'"
+2024-01-26 14:13:21,304 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,304 ERROR First step error, please check 78.27.73.190
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,304 INFO Server supports SMB signing
+2024-01-26 14:13:21,313 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,304 INFO Authentication (on SMB2) successful!
+2024-01-26 14:13:21,305 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,305 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'0a597b3194e8d1f7'"
+2024-01-26 14:13:21,305 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,306 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'dd3e3ac49d03fe53'"
+2024-01-26 14:13:21,306 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'52f4b012ea300e40'"
+2024-01-26 14:13:21,307 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'a1c287e26605ed0f'"
+2024-01-26 14:13:21,307 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,307 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'4791da6dd883517d'"
+2024-01-26 14:13:21,307 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,308 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,308 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'e9831ebfadd595f4'"
+2024-01-26 14:13:21,308 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'26e387845459379f'"
+2024-01-26 14:13:21,308 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'aee7b3a45f8e7bc9'"
+2024-01-26 14:13:21,308 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'1318cdc65bec4cdb'"
+2024-01-26 14:13:21,308 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'352cadbb98b5a293'"
+2024-01-26 14:13:21,308 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'210c55c3a7176ce7'"
+2024-01-26 14:13:21,308 INFO Signing disabled because session is guest/anonymous
+2024-01-26 14:13:21,308 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'ecd6dcbe60f2ce06'"
+2024-01-26 14:13:21,308 ERROR First step error, please check 178.33.192.64
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,301 ERROR First step error, please check 78.25.121.24
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,309 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'1b9f944497ca9b77'"
+2024-01-26 14:13:21,310 ERROR First step error, please check 178.39.62.249
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,310 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'8a21f35ebc723ead'"
+2024-01-26 14:13:21,310 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'a04d2a2bebbd9e55'"
+2024-01-26 14:13:21,310 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'a222631d36f5387a'"
+2024-01-26 14:13:21,310 INFO Server supports SMB signing
+2024-01-26 14:13:21,310 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'6c29b0435a8a4c94'"
+2024-01-26 14:13:21,311 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'243d644d42722b2a'"
+2024-01-26 14:13:21,311 ERROR First step error, please check 178.38.148.176
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,312 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'152b58a5e7a9cef3'"
+2024-01-26 14:13:21,312 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'71eef06655109f6a'"
+2024-01-26 14:13:21,312 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'fa82f0adf869364d'"
+2024-01-26 14:13:21,304 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,313 INFO Signing disabled because session is guest/anonymous
+2024-01-26 14:13:21,313 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,313 ERROR First step error, please check 178.34.154.139
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,314 INFO Server supports SMB signing
+2024-01-26 14:13:21,314 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'dd3e3ac49d03fe53'"
+2024-01-26 14:13:21,314 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'52f4b012ea300e40'"
+2024-01-26 14:13:21,314 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'a1c287e26605ed0f'"
+2024-01-26 14:13:21,314 ERROR First step error, please check 178.34.154.130
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,314 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'4791da6dd883517d'"
+2024-01-26 14:13:21,314 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,314 ERROR First step error, please check 178.38.203.154
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,315 INFO Server supports SMB signing
+2024-01-26 14:13:21,316 INFO Server supports SMB signing
+2024-01-26 14:13:21,316 INFO Server supports SMB signing
+2024-01-26 14:13:21,316 INFO Server supports SMB signing
+2024-01-26 14:13:21,317 INFO Server supports SMB signing
+2024-01-26 14:13:21,317 INFO Server supports SMB signing
+2024-01-26 14:13:21,318 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'8c922280f2aaec4d'"
+2024-01-26 14:13:21,318 INFO Server supports SMB signing
+2024-01-26 14:13:21,319 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'1b9f944497ca9b77'"
+2024-01-26 14:13:21,320 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'8d97c6317b43361a'"
+2024-01-26 14:13:21,321 INFO Server supports SMB signing
+2024-01-26 14:13:21,321 INFO Server supports SMB signing
+2024-01-26 14:13:21,321 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,321 INFO Server supports SMB signing
+2024-01-26 14:13:21,322 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'243d644d42722b2a'"
+2024-01-26 14:13:21,322 INFO Server requires all SMB messages to be signed
+2024-01-26 14:13:21,322 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,323 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'22cde99c3016424a'"
+2024-01-26 14:13:21,323 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,323 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'7f3e10d0aa1edd72'"
+2024-01-26 14:13:21,323 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'152b58a5e7a9cef3'"
+2024-01-26 14:13:21,323 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'71eef06655109f6a'"
+2024-01-26 14:13:21,324 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'fa82f0adf869364d'"
+2024-01-26 14:13:21,324 ERROR First step error, please check 178.38.94.189
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,324 ERROR First step error, please check 78.27.228.82
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,324 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,325 INFO Server supports SMB signing
+2024-01-26 14:13:21,326 INFO Server supports SMB signing
+2024-01-26 14:13:21,326 INFO Authentication (on SMB2) successful!
+2024-01-26 14:13:21,326 INFO Server supports SMB signing
+2024-01-26 14:13:21,326 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,327 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'5f47f4297cc92630'"
+2024-01-26 14:13:21,328 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'b2efb4da06f00866'"
+2024-01-26 14:13:21,328 ERROR First step error, please check 178.39.153.235
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,329 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'1d5ada6bd58468cd'"
+2024-01-26 14:13:21,329 INFO Server supports SMB signing
+2024-01-26 14:13:21,329 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,329 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,329 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,329 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,329 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,330 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,330 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,330 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,330 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'8c922280f2aaec4d'"
+2024-01-26 14:13:21,330 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,330 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'8d97c6317b43361a'"
+2024-01-26 14:13:21,330 INFO Server supports SMB signing
+2024-01-26 14:13:21,331 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,331 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,331 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,331 INFO SMB signing activated. All SMB messages will be signed.
+2024-01-26 14:13:21,331 INFO Server supports SMB signing
+2024-01-26 14:13:21,331 ERROR First step error, please check 178.38.33.29
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,331 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'22cde99c3016424a'"
+2024-01-26 14:13:21,332 ERROR First step error, please check 178.38.85.9
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,332 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'7f3e10d0aa1edd72'"
+2024-01-26 14:13:21,333 INFO Server supports SMB signing
+2024-01-26 14:13:21,333 INFO Server supports SMB signing
+2024-01-26 14:13:21,333 INFO Server supports SMB signing
+2024-01-26 14:13:21,334 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'9e64a9e98a896690'"
+2024-01-26 14:13:21,334 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,335 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,335 INFO Signing disabled because session is guest/anonymous
+2024-01-26 14:13:21,335 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,335 ERROR First step error, please check 178.39.66.93
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,335 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'5f47f4297cc92630'"
+2024-01-26 14:13:21,335 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'b2efb4da06f00866'"
+2024-01-26 14:13:21,336 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'e8ddd3259e269c16'"
+2024-01-26 14:13:21,336 INFO Authentication (on SMB2) successful!
+2024-01-26 14:13:21,336 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'1d5ada6bd58468cd'"
+2024-01-26 14:13:21,336 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,336 ERROR First step error, please check 78.31.66.114
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,336 ERROR First step error, please check 178.39.104.126
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,337 INFO Server supports SMB signing
+2024-01-26 14:13:21,338 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,338 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,338 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,339 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'1c715e94e8d97d36'"
+2024-01-26 14:13:21,339 INFO Server supports SMB signing
+2024-01-26 14:13:21,339 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,339 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,340 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'4aeda278e67db856'"
+2024-01-26 14:13:21,341 INFO Server supports SMB signing
+2024-01-26 14:13:21,341 INFO Authentication (on SMB2) successful!
+2024-01-26 14:13:21,342 INFO Authentication (on SMB2) successful!
+2024-01-26 14:13:21,342 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,342 INFO Server supports SMB signing
+2024-01-26 14:13:21,343 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,343 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,343 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,343 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,343 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'9e64a9e98a896690'"
+2024-01-26 14:13:21,345 INFO Server supports SMB signing
+2024-01-26 14:13:21,345 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'e8ddd3259e269c16'"
+2024-01-26 14:13:21,345 INFO Server supports SMB signing
+2024-01-26 14:13:21,345 INFO Signing disabled because session is guest/anonymous
+2024-01-26 14:13:21,346 INFO Server supports SMB signing
+2024-01-26 14:13:21,346 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,347 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,347 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,347 ERROR First step error, please check 78.31.65.37
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,347 ERROR First step error, please check 178.32.143.121
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,347 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'1c715e94e8d97d36'"
+2024-01-26 14:13:21,347 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,347 ERROR First step error, please check 78.24.236.88
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,347 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'4aeda278e67db856'"
+2024-01-26 14:13:21,347 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,347 INFO Signing disabled because session is guest/anonymous
+2024-01-26 14:13:21,347 INFO Signing disabled because session is guest/anonymous
+2024-01-26 14:13:21,348 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,348 ERROR First step error, please check 78.31.67.200
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,348 ERROR First step error, please check 178.38.165.103
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,348 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,349 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,349 INFO Server supports SMB signing
+2024-01-26 14:13:21,349 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,349 INFO Server supports SMB signing
+2024-01-26 14:13:21,349 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,349 ERROR First step error, please check 178.37.204.141
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,350 ERROR First step error, please check 178.33.21.161
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,351 INFO Server supports SMB signing
+2024-01-26 14:13:21,352 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'5d94b37390a36fed'"
+2024-01-26 14:13:21,352 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,353 INFO Server requires all SMB messages to be signed
+2024-01-26 14:13:21,353 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,354 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,354 ERROR First step error, please check 78.31.71.242
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,354 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,354 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,355 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'05e7b7a83bee4bf8'"
+2024-01-26 14:13:21,356 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,356 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'5d94b37390a36fed'"
+2024-01-26 14:13:21,356 ERROR First step error, please check 78.32.253.111
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,356 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,356 INFO SMB signing activated. All SMB messages will be signed.
+2024-01-26 14:13:21,356 ERROR First step error, please check 78.33.141.69
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,356 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,356 ERROR First step error, please check 78.31.254.219
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,357 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'05e7b7a83bee4bf8'"
+2024-01-26 14:13:21,358 INFO Server supports SMB signing
+2024-01-26 14:13:21,358 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,359 ERROR First step error, please check 78.11.102.18
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,359 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,359 ERROR First step error, please check 178.39.68.123
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,361 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,361 INFO Server supports SMB signing
+2024-01-26 14:13:21,361 ERROR First step error, please check 78.31.107.132
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,361 ERROR First step error, please check 178.39.134.11
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,362 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:21,364 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,365 ERROR First step error, please check 78.8.243.124
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,366 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,366 ERROR First step error, please check 78.29.228.61
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,385 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,385 ERROR First step error, please check 178.38.147.69
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,386 INFO Authentication (on SMB2) successful!
+2024-01-26 14:13:21,387 INFO Signing disabled because session is guest/anonymous
+2024-01-26 14:13:21,389 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,389 ERROR First step error, please check 178.39.56.97
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,390 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,391 ERROR First step error, please check 178.39.100.168
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,394 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,394 ERROR First step error, please check 78.23.150.19
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,394 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,394 ERROR First step error, please check 178.32.140.132
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,395 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,396 ERROR First step error, please check 78.20.102.55
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,397 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,397 ERROR First step error, please check 78.20.99.179
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,397 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,398 ERROR First step error, please check 178.38.82.106
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,399 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,399 ERROR First step error, please check 178.66.69.39
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,400 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,400 ERROR First step error, please check 178.37.171.107
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,400 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,401 ERROR First step error, please check 178.66.224.201
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,401 INFO Authentication (on SMB2) successful!
+2024-01-26 14:13:21,401 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,402 INFO Signing disabled because session is guest/anonymous
+2024-01-26 14:13:21,402 ERROR First step error, please check 78.32.152.63
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,404 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,405 ERROR First step error, please check 78.32.151.239
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,406 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,406 ERROR First step error, please check 78.29.231.165
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,412 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,412 ERROR First step error, please check 78.21.155.217
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,414 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,414 ERROR First step error, please check 78.11.116.10
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,415 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,415 ERROR First step error, please check 178.36.48.230
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,419 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,419 ERROR First step error, please check 78.21.226.130
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,424 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,424 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,424 ERROR First step error, please check 78.31.90.28
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,424 ERROR First step error, please check 78.11.151.240
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,425 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,425 ERROR First step error, please check 78.21.223.191
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,427 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,427 ERROR First step error, please check 78.21.171.198
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,430 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,430 ERROR First step error, please check 78.31.152.221
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,432 INFO Authentication (on SMB2) successful!
+2024-01-26 14:13:21,432 INFO Signing disabled because session is guest/anonymous
+2024-01-26 14:13:21,432 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,432 ERROR First step error, please check 178.38.8.87
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,438 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,438 ERROR First step error, please check 78.10.141.60
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,445 INFO Authentication (on SMB2) successful!
+2024-01-26 14:13:21,445 INFO Signing disabled because session is guest/anonymous
+2024-01-26 14:13:21,445 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,445 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,446 ERROR First step error, please check 78.30.29.218
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,446 ERROR First step error, please check 78.30.35.185
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,447 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,447 ERROR First step error, please check 78.25.89.108
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,447 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,447 ERROR First step error, please check 78.10.162.187
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,452 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,452 ERROR First step error, please check 78.30.19.38
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,454 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,454 ERROR First step error, please check 78.8.41.244
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,457 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,457 ERROR First step error, please check 78.30.37.135
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,465 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,465 ERROR First step error, please check 78.8.31.173
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,472 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,472 ERROR First step error, please check 78.30.43.49
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,482 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,482 ERROR First step error, please check 78.25.92.53
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:21,484 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:21,484 ERROR First step error, please check 78.29.187.20
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:22,081 INFO Now switching over to SMB2 protocol communication
+2024-01-26 14:13:22,081 INFO SMB2 dialect negotiation successful
+2024-01-26 14:13:22,119 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:22,119 ERROR First step error, please check 78.22.77.113
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
+2024-01-26 14:13:22,299 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'2c43aa68a3b7870d'"
+2024-01-26 14:13:22,299 INFO Performing NTLMv2 authentication (on SMB2) with server challenge "b'2c43aa68a3b7870d'"
+2024-01-26 14:13:22,300 INFO Server supports SMB signing
+2024-01-26 14:13:22,300 INFO SMB signing deactivated. SMB messages will NOT be signed.
+2024-01-26 14:13:22,402 INFO Authentication (on SMB2) failed. Please check username and password.
+2024-01-26 14:13:22,402 ERROR First step error, please check 78.23.108.49
+Traceback (most recent call last):
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\main.py", line 103, in dumps_dir
+    shares = conn.listShares(timeout=25)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\SMBConnection.py", line 164, in listShares
+    self._listShares(cb, eb, timeout)
+  File "D:\Users\Levashov\AllCode\Python\python_apps\Basic_ethical\Arabic\smb_all\.venv\lib\site-packages\smb\base.py", line 420, in _listShares_SMB2
+    raise NotReadyError('SMB connection not authenticated')
+smb.base.NotReadyError: SMB connection not authenticated
