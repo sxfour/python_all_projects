@@ -46,7 +46,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
 async def status_command(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
     """Send a message when the command /help is issued."""
     user = update.effective_user
-    valid_id = 1707985385
+    valid_id = # set you id int tg
 
     # Check id
     if user.id == valid_id:
@@ -62,7 +62,7 @@ async def echo(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
 def main() -> None:
     """Start the bot."""
     # Create the Application and pass it your bot's token.
-    application = Application.builder().token("7143639493:AAH52u2tdDnhQA9Yrwp3pD3UJzIyMv9j3HM").build()
+    application = Application.builder().token("TOKEN").build()
 
     # on different commands - answer in Telegram
     application.add_handler(CommandHandler("start", start))
