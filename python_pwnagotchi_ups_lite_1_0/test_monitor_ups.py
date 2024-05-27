@@ -3,6 +3,7 @@
 import smbus2
 import struct
 import logging
+import subprocess
 
 logging.basicConfig(level=logging.DEBUG)
 
