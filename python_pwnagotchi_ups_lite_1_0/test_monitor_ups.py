@@ -12,7 +12,7 @@ ADDRESS = 0x72
 
 def readVoltage(bus):
     try:
-        read = bus.read_word_data(ADDRESS, 12) # or input i2c = 2(default ups 1.1), 21, 12, 9
+        read = bus.read_word_data(ADDRESS, 2) # or input i2c = 2(default ups 1.1), 21, 12, 9
         logging.info("voltage read: " + str(read))
         swapped = struct.unpack("<H", struct.pack(">H", read))[0]
         logging.info("voltage swapped: " + str(swapped))
@@ -25,7 +25,7 @@ def readVoltage(bus):
 
 def readCapacity(bus):
     try:
-        read = bus.read_word_data(ADDRESS, 2) # or i2c = 2, 4(default ups 1.1)
+        read = bus.read_word_data(ADDRESS, 4) # or i2c = 2, 4(default ups 1.1)
         logging.info("capacity read: " + str(read))
         swapped = struct.unpack("<H", struct.pack(">H", read))[0]
         logging.info("capacity swapped: " + str(swapped))
