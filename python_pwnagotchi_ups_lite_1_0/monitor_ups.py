@@ -6,7 +6,7 @@ import pwnagotchi.ui.fonts as fonts
 from pwnagotchi.ui.components import LabeledValue
 from pwnagotchi.ui.view import BLACK
 
-ADDRESS = 0x72
+ADDRESS = int(''.join(filter(str.isdigit, str(subprocess.run(["sudo", "i2cdetect", "-y", "1"], capture_output=True)).split("70:")[1])), 16)
 
 
 class UPS:
