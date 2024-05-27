@@ -1,4 +1,5 @@
 import struct
+import subprocess
 
 import pwnagotchi
 import pwnagotchi.plugins as plugins
