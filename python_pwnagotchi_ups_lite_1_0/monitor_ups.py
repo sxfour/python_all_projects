@@ -26,7 +26,7 @@ class UPS:
             voltage = swapped * 1.25 / 1000 / 16
             # logging.info("voltage return: " + str(voltage))
 
-            return float(voltage)
+            return voltage
         except:
             return 0.0
 
