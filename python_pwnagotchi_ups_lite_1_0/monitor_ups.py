@@ -32,7 +32,7 @@ class UPS:
 
     def readCapacity(self):
         try:
-            read = self._bus.read_word_data(ADDRESS, 4)  # or i2c = 2(test), 4(default ups 1.1)
+            read = self._bus.read_word_data(ADDRESS, 21)  # or i2c = 2(test), 4(default ups 1.1)
             # logging.info("capacity read: " + str(read))
             swapped = struct.unpack("<H", struct.pack(">H", read))[0]
             # logging.info("capacity swapped: " + str(swapped))
@@ -60,7 +60,7 @@ class UPSLite(plugins.Plugin):
         self.ups = UPS()
 
     def on_ui_setup(self, ui):
-        ui.add_element('ups', LabeledValue(color=BLACK, label='', value='0усл.ед', position=(ui.width() / 3, 0),
+        ui.add_element('ups', LabeledValue(color=BLACK, label='', value='0mA/0Вт', position=(ui.width() / 3, 0),
                                            label_font=fonts.Bold, text_font=fonts.Medium))
 
     def on_unload(self, ui):
@@ -70,5 +70,5 @@ class UPSLite(plugins.Plugin):
     def on_ui_update(self, ui):
         self.ups.quickStart()
         voltage = self.ups.readVoltage()
-        # capacity = self.ups.readCapacity()
-        ui.set('ups', "%5.2fусл.ед" % voltage)
+        capacity = self.ups.readCapacity()
+        ui.set('ups', "%5imA/%5.2fВт" % (capacity, voltage))
