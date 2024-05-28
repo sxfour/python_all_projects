@@ -70,4 +70,4 @@ class UPSLite(plugins.Plugin):
         self.ups.quickStart()
         voltage = self.ups.readVoltage()
         # capacity = self.ups.readCapacity()
-        ui.set('ups', "%5.2fусл.ед" % (capacity, voltage))
+        ui.set('ups', "%5.2fусл.ед" % voltage)
