@@ -49,7 +49,7 @@ class UPS:
 
 class UPSLite(plugins.Plugin):
     __author__ = 'Egor Levashov (sxfour)'
-    __version__ = '0.0.4'
+    __version__ = '0.0.5'
     __license__ = 'GPL3'
     __description__ = '(TEST) A plugin that will add a voltage indicator for the UPS Lite v1.0'
 
@@ -72,9 +72,9 @@ class UPSLite(plugins.Plugin):
         voltage = self.ups.readVoltage()
         capacity = self.ups.readCapacity()
         # ui.set('ups', "%5imA/%5.2fВт" % (capacity, voltage))
-        if voltage >= 0.97:
+        if voltage >= 0.99:
             ui.set('ups', "%5imA/%5.2fВт" % (capacity, voltage))
-        elif voltage <= 0.96:
+        elif voltage <= 0.97:
             ui.set('ups', "выключен")
             ui.update(force=True, new_data={'status': 'Низкий заряд, поки-доки...'})
             pwnagotchi.shutdown()
