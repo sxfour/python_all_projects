@@ -8,7 +8,8 @@ import subprocess
 logging.basicConfig(level=logging.DEBUG)
 
 # this i2c used ups 1.0
-ADDRESS = int(''.join(filter(str.isdigit, str(subprocess.run(["sudo", "i2cdetect", "-y", "1"], capture_output=True)).split("70:")[1])), 16)
+# ADDRESS = int(''.join(filter(str.isdigit, str(subprocess.run(["sudo", "i2cdetect", "-y", "1"], capture_output=True)).split("70:")[1])), 16)
+ADDRESS = 0x76
 
 
 def readVoltage(bus):
