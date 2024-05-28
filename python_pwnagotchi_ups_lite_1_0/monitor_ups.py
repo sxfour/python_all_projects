@@ -71,4 +71,12 @@ class UPSLite(plugins.Plugin):
         self.ups.quickStart()
         voltage = self.ups.readVoltage()
         capacity = self.ups.readCapacity()
-        ui.set('ups', "%5imA/%5.2fВт" % (capacity, voltage))
+        # ui.set('ups', "%5imA/%5.2fВт" % (capacity, voltage))
+        if voltage >= 0.97:
+            ui.set('ups', "%5imA/%5.2fВт" % (capacity, voltage))
+        elif voltage <= 0.96:
+            ui.set('ups', "выключен")
+            ui.update(force=True, new_data={'status': 'Низкий заряд, поки-доки...'})
+            pwnagotchi.shutdown()
+        else:
+            ui.set('ups', "ошибка...")
