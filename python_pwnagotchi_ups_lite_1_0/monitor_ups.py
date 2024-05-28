@@ -49,7 +49,7 @@ class UPS:
 
 class UPSLite(plugins.Plugin):
     __author__ = 'Egor Levashov (sxfour)'
-    __version__ = '0.0.1'
+    __version__ = '0.0.4'
     __license__ = 'GPL3'
     __description__ = '(TEST) A plugin that will add a voltage indicator for the UPS Lite v1.0'
 
