@@ -26,7 +26,7 @@ class UPS:
             voltage = swapped * 1.25 / 1000 / 16
             # logging.info("voltage return: " + str(voltage))
 
-            return voltage
+            return float(voltage)
         except:
             return 0.0
 
@@ -71,4 +71,11 @@ class UPSLite(plugins.Plugin):
         self.ups.quickStart()
         voltage = self.ups.readVoltage()
         capacity = self.ups.readCapacity()
-        ui.set('ups', "%5imA/%5.2fВт" % (capacity, voltage))
+        # ui.set('ups', "%5imA/%5.2fВт" % (capacity, voltage))
+        if float(voltage) % 5.2 >= 0.97:
+            ui.set('ups', "%5imA/%5.2fВт" % (capacity, voltage))
+        elif float(voltage) % 5.2 <= 0.96:
+            ui.set('ups', "выключен")
+            ui.update(force=True, new_data={'status': 'Низкий заряд, поки-доки...'})
+        else:
+            ui.set('ups', "ошибка...")
