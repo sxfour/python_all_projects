@@ -50,5 +50,5 @@ bus = smbus2.SMBus(1)
 # PowerOnReset(bus)
 QuickStart(bus)
 
-print("Voltage: %5.2fV" % readVoltage(bus))
-print("Capacity: %5i%%" % readCapacity(bus))
+print("Voltage: %5.2fВт" % readVoltage(bus))
+print("Capacity: %5imA" % readCapacity(bus))
