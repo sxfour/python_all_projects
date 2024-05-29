@@ -74,9 +74,8 @@ class UPSLite(plugins.Plugin):
         # ui.set('ups', "%5imA/%5.2fВт" % (capacity, voltage))
         if voltage >= 0.99:
             ui.set('ups', "%5imA/%5.2fВт" % (capacity, voltage))
-        elif voltage <= 0.97:
+        else:
             ui.set('ups', "выключен")
             ui.update(force=True, new_data={'status': 'Низкий заряд, поки-доки...'})
             pwnagotchi.shutdown()
-        else:
             ui.set('ups', "ошибка...")
