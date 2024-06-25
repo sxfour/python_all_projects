@@ -14,7 +14,7 @@ from logging import *
 class OPCResponse:
     def __init__(self, url, device):
         self.url = url
-        self.title = "Опрос Взлет ТСР-024М (Пикет 1)"
+        self.title = ""
         self.client = Client(self.url)
         self.device = device
 
@@ -95,7 +95,7 @@ if __name__ == "__main__":
     with Live(console=console, screen=True, auto_refresh=False) as live:
         while True:
             try:
-                live.update(OPCResponse("opc.tcp://192.168.0.120:55000", device=TSRV_024).get_data_opc(sleep_conn=1), refresh=True)
+                live.update(OPCResponse("", device=TSRV_024).get_data_opc(sleep_conn=1), refresh=True)
             except Exception as ex:
                 gtime = strftime("%d-%m-%Y %H:%M:%S", localtime(time()))
 
