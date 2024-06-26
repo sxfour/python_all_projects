@@ -93,9 +93,9 @@ if __name__ == "__main__":
         while True:
             try:
                 live.update(OPCResponse(
-                    url="opc.tcp://192.168.0.124:55000",
+                    url="ВАШ ОПС СЕРВЕР",
                     device=TSRV_022,
-                    title="Опрос Взлет ТСР-022 (33км)"
+                    title="Название"
                 ).get_data_opc(), refresh=True)
             except Exception as ex:
                 gtime = strftime("%d-%m-%Y %H:%M:%S", localtime(time()))
