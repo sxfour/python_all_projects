@@ -13,4 +13,4 @@ async def run_client(host, port, password):
 
 
 if __name__ == '__main__':
-    asyncio.run(run_client('localhost', '5901', 'teplsos'))
+    asyncio.run(run_client('', '', ''))
